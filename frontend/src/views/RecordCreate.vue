@@ -135,6 +135,28 @@
           <el-input v-model="form.notes" type="textarea" :rows="3" placeholder="记录一些备注..." style="width: 500px" />
         </el-form-item>
 
+        <!-- Video Upload -->
+        <el-divider content-position="left">出闪时刻（可选）</el-divider>
+
+        <el-form-item label="视频">
+          <div class="video-upload-wrapper">
+            <el-upload
+              :show-file-list="false"
+              :before-upload="onVideoSelect"
+              accept=".mp4,.webm,.mov,.avi,.mkv"
+            >
+              <el-button type="primary" plain :loading="videoUploading">
+                {{ videoUploading ? '上传中...' : '选择视频' }}
+              </el-button>
+            </el-upload>
+            <span v-if="videoFile" class="video-file-name">
+              📹 {{ videoFile.name }}
+              <el-button text type="danger" size="small" @click="clearVideo">移除</el-button>
+            </span>
+            <span v-else class="video-hint">支持 mp4/webm/mov/avi/mkv，最大 500MB</span>
+          </div>
+        </el-form-item>
+
         <!-- Submit -->
         <el-form-item>
           <el-button type="primary" @click="handleSubmit" :loading="submitting">提交</el-button>
@@ -150,6 +172,7 @@ import { ref, reactive, onMounted } from 'vue'
 import { useRouter } from 'vue-router'
 import { ElMessage } from 'element-plus'
 import { useRecordStore } from '@/stores/record'
+import { uploadVideo } from '@/api/video'
 import { listGames } from '@/api/game'
 import { listMethods } from '@/api/method'
 import { listPokemon } from '@/api/pokemon'
@@ -165,6 +188,27 @@ const searching = ref(false)
 const pokemonOptions = ref<Pokemon[]>([])
 const games = ref<Game[]>([])
 const methods = ref<Method[]>([])
+
+const videoFile = ref<File | null>(null)
+const videoUploading = ref(false)
+
+function onVideoSelect(file: File) {
+  const ext = file.name.split('.').pop()?.toLowerCase()
+  if (!['mp4', 'webm', 'mov', 'avi', 'mkv'].includes(ext || '')) {
+    ElMessage.error('不支持的文件格式，支持: mp4/webm/mov/avi/mkv')
+    return false
+  }
+  if (file.size > 500 * 1024 * 1024) {
+    ElMessage.error('文件大小不能超过 500MB')
+    return false
+  }
+  videoFile.value = file
+  return false
+}
+
+function clearVideo() {
+  videoFile.value = null
+}
 
 const form = reactive({
   pokemonId: undefined as number | undefined,
@@ -210,8 +254,9 @@ async function handleSubmit() {
   if (!valid) return
 
   submitting.value = true
+  let newRecord: any
   try {
-    await store.addRecord({
+    newRecord = await store.addRecord({
       pokemonId: form.pokemonId!,
       gameId: form.gameId!,
       methodId: form.methodId!,
@@ -231,11 +276,24 @@ async function handleSubmit() {
       tagIds: [],
     })
     ElMessage.success('创建成功！')
+
+    // 如果有视频，自动上传
+    if (videoFile.value && newRecord?.id) {
+      videoUploading.value = true
+      try {
+        await uploadVideo(newRecord.id, videoFile.value)
+        ElMessage.success('视频上传成功！')
+      } catch (e: any) {
+        ElMessage.warning('记录已创建，但视频上传失败: ' + (e.message || ''))
+      }
+    }
+
     router.push('/records')
   } catch (e: any) {
     ElMessage.error(e.message || '创建失败')
   } finally {
     submitting.value = false
+    videoUploading.value = false
   }
 }
 
@@ -264,5 +322,25 @@ onMounted(async () => {
 .page-title {
   font-weight: 600;
   font-size: 18px;
+}
+
+.video-upload-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.video-file-name {
+  font-size: 13px;
+  color: #606266;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.video-hint {
+  font-size: 12px;
+  color: #909399;
 }
 </style>
