@@ -1,0 +1,7177 @@
+[
+  {
+    "nationalNo": 1,
+    "name": "Bulbasaur",
+    "nameCN": "妙蛙种子",
+    "type1": "Grass",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 2,
+    "name": "Ivysaur",
+    "nameCN": "妙蛙草",
+    "type1": "Grass",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 3,
+    "name": "Venusaur",
+    "nameCN": "妙蛙花",
+    "type1": "Grass",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 4,
+    "name": "Charmander",
+    "nameCN": "小火龙",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 5,
+    "name": "Charmeleon",
+    "nameCN": "火恐龙",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 6,
+    "name": "Charizard",
+    "nameCN": "喷火龙",
+    "type1": "Fire",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 7,
+    "name": "Squirtle",
+    "nameCN": "杰尼龟",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 8,
+    "name": "Wartortle",
+    "nameCN": "卡咪龟",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 9,
+    "name": "Blastoise",
+    "nameCN": "水箭龟",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 10,
+    "name": "Caterpie",
+    "nameCN": "绿毛虫",
+    "type1": "Bug",
+    "type2": ""
+  },
+  {
+    "nationalNo": 11,
+    "name": "Metapod",
+    "nameCN": "铁甲蛹",
+    "type1": "Bug",
+    "type2": ""
+  },
+  {
+    "nationalNo": 12,
+    "name": "Butterfree",
+    "nameCN": "巴大蝶",
+    "type1": "Bug",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 13,
+    "name": "Weedle",
+    "nameCN": "独角虫",
+    "type1": "Bug",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 14,
+    "name": "Kakuna",
+    "nameCN": "铁壳蛹",
+    "type1": "Bug",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 15,
+    "name": "Beedrill",
+    "nameCN": "大针蜂",
+    "type1": "Bug",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 16,
+    "name": "Pidgey",
+    "nameCN": "波波",
+    "type1": "Normal",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 17,
+    "name": "Pidgeotto",
+    "nameCN": "比比鸟",
+    "type1": "Normal",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 18,
+    "name": "Pidgeot",
+    "nameCN": "大比鸟",
+    "type1": "Normal",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 19,
+    "name": "Rattata",
+    "nameCN": "小拉达",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 20,
+    "name": "Raticate",
+    "nameCN": "拉达",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 21,
+    "name": "Spearow",
+    "nameCN": "烈雀",
+    "type1": "Normal",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 22,
+    "name": "Fearow",
+    "nameCN": "大嘴雀",
+    "type1": "Normal",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 23,
+    "name": "Ekans",
+    "nameCN": "阿柏蛇",
+    "type1": "Poison",
+    "type2": ""
+  },
+  {
+    "nationalNo": 24,
+    "name": "Arbok",
+    "nameCN": "阿柏怪",
+    "type1": "Poison",
+    "type2": ""
+  },
+  {
+    "nationalNo": 25,
+    "name": "Pikachu",
+    "nameCN": "皮卡丘",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 26,
+    "name": "Raichu",
+    "nameCN": "雷丘",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 27,
+    "name": "Sandshrew",
+    "nameCN": "穿山鼠",
+    "type1": "Ground",
+    "type2": ""
+  },
+  {
+    "nationalNo": 28,
+    "name": "Sandslash",
+    "nameCN": "穿山王",
+    "type1": "Ground",
+    "type2": ""
+  },
+  {
+    "nationalNo": 29,
+    "name": "Nidoran♀",
+    "nameCN": "尼多兰",
+    "type1": "Poison",
+    "type2": ""
+  },
+  {
+    "nationalNo": 30,
+    "name": "Nidorina",
+    "nameCN": "尼多娜",
+    "type1": "Poison",
+    "type2": ""
+  },
+  {
+    "nationalNo": 31,
+    "name": "Nidoqueen",
+    "nameCN": "尼多后",
+    "type1": "Poison",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 32,
+    "name": "Nidoran♂",
+    "nameCN": "尼多朗",
+    "type1": "Poison",
+    "type2": ""
+  },
+  {
+    "nationalNo": 33,
+    "name": "Nidorino",
+    "nameCN": "尼多力诺",
+    "type1": "Poison",
+    "type2": ""
+  },
+  {
+    "nationalNo": 34,
+    "name": "Nidoking",
+    "nameCN": "尼多王",
+    "type1": "Poison",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 35,
+    "name": "Clefairy",
+    "nameCN": "皮皮",
+    "type1": "Fairy",
+    "type2": ""
+  },
+  {
+    "nationalNo": 36,
+    "name": "Clefable",
+    "nameCN": "皮可西",
+    "type1": "Fairy",
+    "type2": ""
+  },
+  {
+    "nationalNo": 37,
+    "name": "Vulpix",
+    "nameCN": "六尾",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 38,
+    "name": "Ninetales",
+    "nameCN": "九尾",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 39,
+    "name": "Jigglypuff",
+    "nameCN": "胖丁",
+    "type1": "Normal",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 40,
+    "name": "Wigglytuff",
+    "nameCN": "胖可丁",
+    "type1": "Normal",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 41,
+    "name": "Zubat",
+    "nameCN": "超音蝠",
+    "type1": "Poison",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 42,
+    "name": "Golbat",
+    "nameCN": "大嘴蝠",
+    "type1": "Poison",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 43,
+    "name": "Oddish",
+    "nameCN": "走路草",
+    "type1": "Grass",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 44,
+    "name": "Gloom",
+    "nameCN": "臭臭花",
+    "type1": "Grass",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 45,
+    "name": "Vileplume",
+    "nameCN": "霸王花",
+    "type1": "Grass",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 46,
+    "name": "Paras",
+    "nameCN": "派拉斯",
+    "type1": "Bug",
+    "type2": "Grass"
+  },
+  {
+    "nationalNo": 47,
+    "name": "Parasect",
+    "nameCN": "派拉斯特",
+    "type1": "Bug",
+    "type2": "Grass"
+  },
+  {
+    "nationalNo": 48,
+    "name": "Venonat",
+    "nameCN": "毛球",
+    "type1": "Bug",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 49,
+    "name": "Venomoth",
+    "nameCN": "摩鲁蛾",
+    "type1": "Bug",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 50,
+    "name": "Diglett",
+    "nameCN": "地鼠",
+    "type1": "Ground",
+    "type2": ""
+  },
+  {
+    "nationalNo": 51,
+    "name": "Dugtrio",
+    "nameCN": "三地鼠",
+    "type1": "Ground",
+    "type2": ""
+  },
+  {
+    "nationalNo": 52,
+    "name": "Meowth",
+    "nameCN": "喵喵",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 53,
+    "name": "Persian",
+    "nameCN": "猫老大",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 54,
+    "name": "Psyduck",
+    "nameCN": "可达鸭",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 55,
+    "name": "Golduck",
+    "nameCN": "哥达鸭",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 56,
+    "name": "Mankey",
+    "nameCN": "猴怪",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 57,
+    "name": "Primeape",
+    "nameCN": "火暴猴",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 58,
+    "name": "Growlithe",
+    "nameCN": "卡蒂狗",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 59,
+    "name": "Arcanine",
+    "nameCN": "风速狗",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 60,
+    "name": "Poliwag",
+    "nameCN": "蚊香蝌蚪",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 61,
+    "name": "Poliwhirl",
+    "nameCN": "蚊香君",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 62,
+    "name": "Poliwrath",
+    "nameCN": "蚊香泳士",
+    "type1": "Water",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 63,
+    "name": "Abra",
+    "nameCN": "凯西",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 64,
+    "name": "Kadabra",
+    "nameCN": "勇基拉",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 65,
+    "name": "Alakazam",
+    "nameCN": "胡地",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 66,
+    "name": "Machop",
+    "nameCN": "腕力",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 67,
+    "name": "Machoke",
+    "nameCN": "豪力",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 68,
+    "name": "Machamp",
+    "nameCN": "怪力",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 69,
+    "name": "Bellsprout",
+    "nameCN": "喇叭芽",
+    "type1": "Grass",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 70,
+    "name": "Weepinbell",
+    "nameCN": "口呆花",
+    "type1": "Grass",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 71,
+    "name": "Victreebel",
+    "nameCN": "大食花",
+    "type1": "Grass",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 72,
+    "name": "Tentacool",
+    "nameCN": "玛瑙水母",
+    "type1": "Water",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 73,
+    "name": "Tentacruel",
+    "nameCN": "毒刺水母",
+    "type1": "Water",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 74,
+    "name": "Geodude",
+    "nameCN": "小拳石",
+    "type1": "Rock",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 75,
+    "name": "Graveler",
+    "nameCN": "隆隆石",
+    "type1": "Rock",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 76,
+    "name": "Golem",
+    "nameCN": "隆隆岩",
+    "type1": "Rock",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 77,
+    "name": "Ponyta",
+    "nameCN": "小火马",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 78,
+    "name": "Rapidash",
+    "nameCN": "烈焰马",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 79,
+    "name": "Slowpoke",
+    "nameCN": "呆呆兽",
+    "type1": "Water",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 80,
+    "name": "Slowbro",
+    "nameCN": "呆壳兽",
+    "type1": "Water",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 81,
+    "name": "Magnemite",
+    "nameCN": "小磁怪",
+    "type1": "Electric",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 82,
+    "name": "Magneton",
+    "nameCN": "三合一磁怪",
+    "type1": "Electric",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 83,
+    "name": "Farfetch'd",
+    "nameCN": "大葱鸭",
+    "type1": "Normal",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 84,
+    "name": "Doduo",
+    "nameCN": "嘟嘟",
+    "type1": "Normal",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 85,
+    "name": "Dodrio",
+    "nameCN": "嘟嘟利",
+    "type1": "Normal",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 86,
+    "name": "Seel",
+    "nameCN": "小海狮",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 87,
+    "name": "Dewgong",
+    "nameCN": "白海狮",
+    "type1": "Water",
+    "type2": "Ice"
+  },
+  {
+    "nationalNo": 88,
+    "name": "Grimer",
+    "nameCN": "臭泥",
+    "type1": "Poison",
+    "type2": ""
+  },
+  {
+    "nationalNo": 89,
+    "name": "Muk",
+    "nameCN": "臭臭泥",
+    "type1": "Poison",
+    "type2": ""
+  },
+  {
+    "nationalNo": 90,
+    "name": "Shellder",
+    "nameCN": "大舌贝",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 91,
+    "name": "Cloyster",
+    "nameCN": "刺甲贝",
+    "type1": "Water",
+    "type2": "Ice"
+  },
+  {
+    "nationalNo": 92,
+    "name": "Gastly",
+    "nameCN": "鬼斯",
+    "type1": "Ghost",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 93,
+    "name": "Haunter",
+    "nameCN": "鬼斯通",
+    "type1": "Ghost",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 94,
+    "name": "Gengar",
+    "nameCN": "耿鬼",
+    "type1": "Ghost",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 95,
+    "name": "Onix",
+    "nameCN": "大岩蛇",
+    "type1": "Rock",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 96,
+    "name": "Drowzee",
+    "nameCN": "催眠貘",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 97,
+    "name": "Hypno",
+    "nameCN": "引梦貘人",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 98,
+    "name": "Krabby",
+    "nameCN": "大钳蟹",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 99,
+    "name": "Kingler",
+    "nameCN": "巨钳蟹",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 100,
+    "name": "Voltorb",
+    "nameCN": "霹雳电球",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 101,
+    "name": "Electrode",
+    "nameCN": "顽皮雷弹",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 102,
+    "name": "Exeggcute",
+    "nameCN": "蛋蛋",
+    "type1": "Grass",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 103,
+    "name": "Exeggutor",
+    "nameCN": "椰蛋树",
+    "type1": "Grass",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 104,
+    "name": "Cubone",
+    "nameCN": "卡拉卡拉",
+    "type1": "Ground",
+    "type2": ""
+  },
+  {
+    "nationalNo": 105,
+    "name": "Marowak",
+    "nameCN": "嘎啦嘎啦",
+    "type1": "Ground",
+    "type2": ""
+  },
+  {
+    "nationalNo": 106,
+    "name": "Hitmonlee",
+    "nameCN": "飞腿郎",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 107,
+    "name": "Hitmonchan",
+    "nameCN": "快拳郎",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 108,
+    "name": "Lickitung",
+    "nameCN": "大舌头",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 109,
+    "name": "Koffing",
+    "nameCN": "瓦斯弹",
+    "type1": "Poison",
+    "type2": ""
+  },
+  {
+    "nationalNo": 110,
+    "name": "Weezing",
+    "nameCN": "双弹瓦斯",
+    "type1": "Poison",
+    "type2": ""
+  },
+  {
+    "nationalNo": 111,
+    "name": "Rhyhorn",
+    "nameCN": "独角犀牛",
+    "type1": "Ground",
+    "type2": "Rock"
+  },
+  {
+    "nationalNo": 112,
+    "name": "Rhydon",
+    "nameCN": "钻角犀兽",
+    "type1": "Ground",
+    "type2": "Rock"
+  },
+  {
+    "nationalNo": 113,
+    "name": "Chansey",
+    "nameCN": "吉利蛋",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 114,
+    "name": "Tangela",
+    "nameCN": "蔓藤怪",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 115,
+    "name": "Kangaskhan",
+    "nameCN": "袋兽",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 116,
+    "name": "Horsea",
+    "nameCN": "墨海马",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 117,
+    "name": "Seadra",
+    "nameCN": "海刺龙",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 118,
+    "name": "Goldeen",
+    "nameCN": "角金鱼",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 119,
+    "name": "Seaking",
+    "nameCN": "金鱼王",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 120,
+    "name": "Staryu",
+    "nameCN": "海星星",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 121,
+    "name": "Starmie",
+    "nameCN": "宝石海星",
+    "type1": "Water",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 122,
+    "name": "Mr. Mime",
+    "nameCN": "魔墙人偶",
+    "type1": "Psychic",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 123,
+    "name": "Scyther",
+    "nameCN": "飞天螳螂",
+    "type1": "Bug",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 124,
+    "name": "Jynx",
+    "nameCN": "迷唇姐",
+    "type1": "Ice",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 125,
+    "name": "Electabuzz",
+    "nameCN": "电击兽",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 126,
+    "name": "Magmar",
+    "nameCN": "鸭嘴火兽",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 127,
+    "name": "Pinsir",
+    "nameCN": "凯罗斯",
+    "type1": "Bug",
+    "type2": ""
+  },
+  {
+    "nationalNo": 128,
+    "name": "Tauros",
+    "nameCN": "肯泰罗",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 129,
+    "name": "Magikarp",
+    "nameCN": "鲤鱼王",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 130,
+    "name": "Gyarados",
+    "nameCN": "暴鲤龙",
+    "type1": "Water",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 131,
+    "name": "Lapras",
+    "nameCN": "拉普拉斯",
+    "type1": "Water",
+    "type2": "Ice"
+  },
+  {
+    "nationalNo": 132,
+    "name": "Ditto",
+    "nameCN": "百变怪",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 133,
+    "name": "Eevee",
+    "nameCN": "伊布",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 134,
+    "name": "Vaporeon",
+    "nameCN": "水伊布",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 135,
+    "name": "Jolteon",
+    "nameCN": "雷伊布",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 136,
+    "name": "Flareon",
+    "nameCN": "火伊布",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 137,
+    "name": "Porygon",
+    "nameCN": "多边兽",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 138,
+    "name": "Omanyte",
+    "nameCN": "菊石兽",
+    "type1": "Rock",
+    "type2": "Water"
+  },
+  {
+    "nationalNo": 139,
+    "name": "Omastar",
+    "nameCN": "多刺菊石兽",
+    "type1": "Rock",
+    "type2": "Water"
+  },
+  {
+    "nationalNo": 140,
+    "name": "Kabuto",
+    "nameCN": "化石盔",
+    "type1": "Rock",
+    "type2": "Water"
+  },
+  {
+    "nationalNo": 141,
+    "name": "Kabutops",
+    "nameCN": "镰刀盔",
+    "type1": "Rock",
+    "type2": "Water"
+  },
+  {
+    "nationalNo": 142,
+    "name": "Aerodactyl",
+    "nameCN": "化石翼龙",
+    "type1": "Rock",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 143,
+    "name": "Snorlax",
+    "nameCN": "卡比兽",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 144,
+    "name": "Articuno",
+    "nameCN": "急冻鸟",
+    "type1": "Ice",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 145,
+    "name": "Zapdos",
+    "nameCN": "闪电鸟",
+    "type1": "Electric",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 146,
+    "name": "Moltres",
+    "nameCN": "火焰鸟",
+    "type1": "Fire",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 147,
+    "name": "Dratini",
+    "nameCN": "迷你龙",
+    "type1": "Dragon",
+    "type2": ""
+  },
+  {
+    "nationalNo": 148,
+    "name": "Dragonair",
+    "nameCN": "哈克龙",
+    "type1": "Dragon",
+    "type2": ""
+  },
+  {
+    "nationalNo": 149,
+    "name": "Dragonite",
+    "nameCN": "快龙",
+    "type1": "Dragon",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 150,
+    "name": "Mewtwo",
+    "nameCN": "超梦",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 151,
+    "name": "Mew",
+    "nameCN": "梦幻",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 152,
+    "name": "Chikorita",
+    "nameCN": "菊草叶",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 153,
+    "name": "Bayleef",
+    "nameCN": "月桂叶",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 154,
+    "name": "Meganium",
+    "nameCN": "大竺葵",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 155,
+    "name": "Cyndaquil",
+    "nameCN": "火球鼠",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 156,
+    "name": "Quilava",
+    "nameCN": "火岩鼠",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 157,
+    "name": "Typhlosion",
+    "nameCN": "火暴兽",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 158,
+    "name": "Totodile",
+    "nameCN": "小锯鳄",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 159,
+    "name": "Croconaw",
+    "nameCN": "蓝鳄",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 160,
+    "name": "Feraligatr",
+    "nameCN": "大力鳄",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 161,
+    "name": "Sentret",
+    "nameCN": "尾立",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 162,
+    "name": "Furret",
+    "nameCN": "大尾立",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 163,
+    "name": "Hoothoot",
+    "nameCN": "咕咕",
+    "type1": "Normal",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 164,
+    "name": "Noctowl",
+    "nameCN": "猫头夜鹰",
+    "type1": "Normal",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 165,
+    "name": "Ledyba",
+    "nameCN": "芭瓢虫",
+    "type1": "Bug",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 166,
+    "name": "Ledian",
+    "nameCN": "安瓢虫",
+    "type1": "Bug",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 167,
+    "name": "Spinarak",
+    "nameCN": "圆丝蛛",
+    "type1": "Bug",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 168,
+    "name": "Ariados",
+    "nameCN": "阿利多斯",
+    "type1": "Bug",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 169,
+    "name": "Crobat",
+    "nameCN": "叉字蝠",
+    "type1": "Poison",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 170,
+    "name": "Chinchou",
+    "nameCN": "灯笼鱼",
+    "type1": "Water",
+    "type2": "Electric"
+  },
+  {
+    "nationalNo": 171,
+    "name": "Lanturn",
+    "nameCN": "电灯怪",
+    "type1": "Water",
+    "type2": "Electric"
+  },
+  {
+    "nationalNo": 172,
+    "name": "Pichu",
+    "nameCN": "皮丘",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 173,
+    "name": "Cleffa",
+    "nameCN": "皮宝宝",
+    "type1": "Fairy",
+    "type2": ""
+  },
+  {
+    "nationalNo": 174,
+    "name": "Igglybuff",
+    "nameCN": "宝宝丁",
+    "type1": "Normal",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 175,
+    "name": "Togepi",
+    "nameCN": "波克比",
+    "type1": "Fairy",
+    "type2": ""
+  },
+  {
+    "nationalNo": 176,
+    "name": "Togetic",
+    "nameCN": "波克基古",
+    "type1": "Fairy",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 177,
+    "name": "Natu",
+    "nameCN": "天然雀",
+    "type1": "Psychic",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 178,
+    "name": "Xatu",
+    "nameCN": "天然鸟",
+    "type1": "Psychic",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 179,
+    "name": "Mareep",
+    "nameCN": "咩利羊",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 180,
+    "name": "Flaaffy",
+    "nameCN": "茸茸羊",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 181,
+    "name": "Ampharos",
+    "nameCN": "电龙",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 182,
+    "name": "Bellossom",
+    "nameCN": "美丽花",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 183,
+    "name": "Marill",
+    "nameCN": "玛力露",
+    "type1": "Water",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 184,
+    "name": "Azumarill",
+    "nameCN": "玛力露丽",
+    "type1": "Water",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 185,
+    "name": "Sudowoodo",
+    "nameCN": "树才怪",
+    "type1": "Rock",
+    "type2": ""
+  },
+  {
+    "nationalNo": 186,
+    "name": "Politoed",
+    "nameCN": "蚊香蛙皇",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 187,
+    "name": "Hoppip",
+    "nameCN": "毽子草",
+    "type1": "Grass",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 188,
+    "name": "Skiploom",
+    "nameCN": "毽子花",
+    "type1": "Grass",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 189,
+    "name": "Jumpluff",
+    "nameCN": "毽子棉",
+    "type1": "Grass",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 190,
+    "name": "Aipom",
+    "nameCN": "长尾怪手",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 191,
+    "name": "Sunkern",
+    "nameCN": "向日种子",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 192,
+    "name": "Sunflora",
+    "nameCN": "向日花怪",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 193,
+    "name": "Yanma",
+    "nameCN": "蜻蜻蜓",
+    "type1": "Bug",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 194,
+    "name": "Wooper",
+    "nameCN": "乌波",
+    "type1": "Water",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 195,
+    "name": "Quagsire",
+    "nameCN": "沼王",
+    "type1": "Water",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 196,
+    "name": "Espeon",
+    "nameCN": "太阳伊布",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 197,
+    "name": "Umbreon",
+    "nameCN": "月亮伊布",
+    "type1": "Dark",
+    "type2": ""
+  },
+  {
+    "nationalNo": 198,
+    "name": "Murkrow",
+    "nameCN": "黑暗鸦",
+    "type1": "Dark",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 199,
+    "name": "Slowking",
+    "nameCN": "呆呆王",
+    "type1": "Water",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 200,
+    "name": "Misdreavus",
+    "nameCN": "梦妖",
+    "type1": "Ghost",
+    "type2": ""
+  },
+  {
+    "nationalNo": 201,
+    "name": "Unown",
+    "nameCN": "未知图腾",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 202,
+    "name": "Wobbuffet",
+    "nameCN": "果然翁",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 203,
+    "name": "Girafarig",
+    "nameCN": "麒麟奇",
+    "type1": "Normal",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 204,
+    "name": "Pineco",
+    "nameCN": "榛果球",
+    "type1": "Bug",
+    "type2": ""
+  },
+  {
+    "nationalNo": 205,
+    "name": "Forretress",
+    "nameCN": "佛烈托斯",
+    "type1": "Bug",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 206,
+    "name": "Dunsparce",
+    "nameCN": "土龙弟弟",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 207,
+    "name": "Gligar",
+    "nameCN": "天蝎",
+    "type1": "Ground",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 208,
+    "name": "Steelix",
+    "nameCN": "大钢蛇",
+    "type1": "Steel",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 209,
+    "name": "Snubbull",
+    "nameCN": "布鲁",
+    "type1": "Fairy",
+    "type2": ""
+  },
+  {
+    "nationalNo": 210,
+    "name": "Granbull",
+    "nameCN": "布鲁皇",
+    "type1": "Fairy",
+    "type2": ""
+  },
+  {
+    "nationalNo": 211,
+    "name": "Qwilfish",
+    "nameCN": "千针鱼",
+    "type1": "Water",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 212,
+    "name": "Scizor",
+    "nameCN": "巨钳螳螂",
+    "type1": "Bug",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 213,
+    "name": "Shuckle",
+    "nameCN": "壶壶",
+    "type1": "Bug",
+    "type2": "Rock"
+  },
+  {
+    "nationalNo": 214,
+    "name": "Heracross",
+    "nameCN": "赫拉克罗斯",
+    "type1": "Bug",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 215,
+    "name": "Sneasel",
+    "nameCN": "狃拉",
+    "type1": "Dark",
+    "type2": "Ice"
+  },
+  {
+    "nationalNo": 216,
+    "name": "Teddiursa",
+    "nameCN": "熊宝宝",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 217,
+    "name": "Ursaring",
+    "nameCN": "圈圈熊",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 218,
+    "name": "Slugma",
+    "nameCN": "熔岩虫",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 219,
+    "name": "Magcargo",
+    "nameCN": "熔岩蜗牛",
+    "type1": "Fire",
+    "type2": "Rock"
+  },
+  {
+    "nationalNo": 220,
+    "name": "Swinub",
+    "nameCN": "小山猪",
+    "type1": "Ice",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 221,
+    "name": "Piloswine",
+    "nameCN": "长毛猪",
+    "type1": "Ice",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 222,
+    "name": "Corsola",
+    "nameCN": "太阳珊瑚",
+    "type1": "Water",
+    "type2": "Rock"
+  },
+  {
+    "nationalNo": 223,
+    "name": "Remoraid",
+    "nameCN": "铁炮鱼",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 224,
+    "name": "Octillery",
+    "nameCN": "章鱼桶",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 225,
+    "name": "Delibird",
+    "nameCN": "信使鸟",
+    "type1": "Ice",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 226,
+    "name": "Mantine",
+    "nameCN": "巨翅飞鱼",
+    "type1": "Water",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 227,
+    "name": "Skarmory",
+    "nameCN": "盔甲鸟",
+    "type1": "Steel",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 228,
+    "name": "Houndour",
+    "nameCN": "戴鲁比",
+    "type1": "Dark",
+    "type2": "Fire"
+  },
+  {
+    "nationalNo": 229,
+    "name": "Houndoom",
+    "nameCN": "黑鲁加",
+    "type1": "Dark",
+    "type2": "Fire"
+  },
+  {
+    "nationalNo": 230,
+    "name": "Kingdra",
+    "nameCN": "刺龙王",
+    "type1": "Water",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 231,
+    "name": "Phanpy",
+    "nameCN": "小小象",
+    "type1": "Ground",
+    "type2": ""
+  },
+  {
+    "nationalNo": 232,
+    "name": "Donphan",
+    "nameCN": "顿甲",
+    "type1": "Ground",
+    "type2": ""
+  },
+  {
+    "nationalNo": 233,
+    "name": "Porygon2",
+    "nameCN": "多边兽Ⅱ",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 234,
+    "name": "Stantler",
+    "nameCN": "惊角鹿",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 235,
+    "name": "Smeargle",
+    "nameCN": "图图犬",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 236,
+    "name": "Tyrogue",
+    "nameCN": "无畏小子",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 237,
+    "name": "Hitmontop",
+    "nameCN": "战舞郎",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 238,
+    "name": "Smoochum",
+    "nameCN": "迷唇娃",
+    "type1": "Ice",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 239,
+    "name": "Elekid",
+    "nameCN": "电击怪",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 240,
+    "name": "Magby",
+    "nameCN": "鸭嘴宝宝",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 241,
+    "name": "Miltank",
+    "nameCN": "大奶罐",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 242,
+    "name": "Blissey",
+    "nameCN": "幸福蛋",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 243,
+    "name": "Raikou",
+    "nameCN": "雷公",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 244,
+    "name": "Entei",
+    "nameCN": "炎帝",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 245,
+    "name": "Suicune",
+    "nameCN": "水君",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 246,
+    "name": "Larvitar",
+    "nameCN": "幼基拉斯",
+    "type1": "Rock",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 247,
+    "name": "Pupitar",
+    "nameCN": "沙基拉斯",
+    "type1": "Rock",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 248,
+    "name": "Tyranitar",
+    "nameCN": "班基拉斯",
+    "type1": "Rock",
+    "type2": "Dark"
+  },
+  {
+    "nationalNo": 249,
+    "name": "Lugia",
+    "nameCN": "洛奇亚",
+    "type1": "Psychic",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 250,
+    "name": "Ho-Oh",
+    "nameCN": "凤王",
+    "type1": "Fire",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 251,
+    "name": "Celebi",
+    "nameCN": "时拉比",
+    "type1": "Psychic",
+    "type2": "Grass"
+  },
+  {
+    "nationalNo": 252,
+    "name": "Treecko",
+    "nameCN": "木守宫",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 253,
+    "name": "Grovyle",
+    "nameCN": "森林蜥蜴",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 254,
+    "name": "Sceptile",
+    "nameCN": "蜥蜴王",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 255,
+    "name": "Torchic",
+    "nameCN": "火稚鸡",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 256,
+    "name": "Combusken",
+    "nameCN": "力壮鸡",
+    "type1": "Fire",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 257,
+    "name": "Blaziken",
+    "nameCN": "火焰鸡",
+    "type1": "Fire",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 258,
+    "name": "Mudkip",
+    "nameCN": "水跃鱼",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 259,
+    "name": "Marshtomp",
+    "nameCN": "沼跃鱼",
+    "type1": "Water",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 260,
+    "name": "Swampert",
+    "nameCN": "巨沼怪",
+    "type1": "Water",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 261,
+    "name": "Poochyena",
+    "nameCN": "土狼犬",
+    "type1": "Dark",
+    "type2": ""
+  },
+  {
+    "nationalNo": 262,
+    "name": "Mightyena",
+    "nameCN": "大狼犬",
+    "type1": "Dark",
+    "type2": ""
+  },
+  {
+    "nationalNo": 263,
+    "name": "Zigzagoon",
+    "nameCN": "蛇纹熊",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 264,
+    "name": "Linoone",
+    "nameCN": "直冲熊",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 265,
+    "name": "Wurmple",
+    "nameCN": "刺尾虫",
+    "type1": "Bug",
+    "type2": ""
+  },
+  {
+    "nationalNo": 266,
+    "name": "Silcoon",
+    "nameCN": "甲壳茧",
+    "type1": "Bug",
+    "type2": ""
+  },
+  {
+    "nationalNo": 267,
+    "name": "Beautifly",
+    "nameCN": "狩猎凤蝶",
+    "type1": "Bug",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 268,
+    "name": "Cascoon",
+    "nameCN": "盾甲茧",
+    "type1": "Bug",
+    "type2": ""
+  },
+  {
+    "nationalNo": 269,
+    "name": "Dustox",
+    "nameCN": "毒粉蛾",
+    "type1": "Bug",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 270,
+    "name": "Lotad",
+    "nameCN": "莲叶童子",
+    "type1": "Water",
+    "type2": "Grass"
+  },
+  {
+    "nationalNo": 271,
+    "name": "Lombre",
+    "nameCN": "莲帽小童",
+    "type1": "Water",
+    "type2": "Grass"
+  },
+  {
+    "nationalNo": 272,
+    "name": "Ludicolo",
+    "nameCN": "乐天河童",
+    "type1": "Water",
+    "type2": "Grass"
+  },
+  {
+    "nationalNo": 273,
+    "name": "Seedot",
+    "nameCN": "橡实果",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 274,
+    "name": "Nuzleaf",
+    "nameCN": "长鼻叶",
+    "type1": "Grass",
+    "type2": "Dark"
+  },
+  {
+    "nationalNo": 275,
+    "name": "Shiftry",
+    "nameCN": "狡猾天狗",
+    "type1": "Grass",
+    "type2": "Dark"
+  },
+  {
+    "nationalNo": 276,
+    "name": "Taillow",
+    "nameCN": "傲骨燕",
+    "type1": "Normal",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 277,
+    "name": "Swellow",
+    "nameCN": "大王燕",
+    "type1": "Normal",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 278,
+    "name": "Wingull",
+    "nameCN": "长翅鸥",
+    "type1": "Water",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 279,
+    "name": "Pelipper",
+    "nameCN": "大嘴鸥",
+    "type1": "Water",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 280,
+    "name": "Ralts",
+    "nameCN": "拉鲁拉丝",
+    "type1": "Psychic",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 281,
+    "name": "Kirlia",
+    "nameCN": "奇鲁莉安",
+    "type1": "Psychic",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 282,
+    "name": "Gardevoir",
+    "nameCN": "沙奈朵",
+    "type1": "Psychic",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 283,
+    "name": "Surskit",
+    "nameCN": "溜溜糖球",
+    "type1": "Bug",
+    "type2": "Water"
+  },
+  {
+    "nationalNo": 284,
+    "name": "Masquerain",
+    "nameCN": "雨翅蛾",
+    "type1": "Bug",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 285,
+    "name": "Shroomish",
+    "nameCN": "蘑蘑菇",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 286,
+    "name": "Breloom",
+    "nameCN": "斗笠菇",
+    "type1": "Grass",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 287,
+    "name": "Slakoth",
+    "nameCN": "懒人獭",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 288,
+    "name": "Vigoroth",
+    "nameCN": "过动猿",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 289,
+    "name": "Slaking",
+    "nameCN": "请假王",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 290,
+    "name": "Nincada",
+    "nameCN": "土居忍士",
+    "type1": "Bug",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 291,
+    "name": "Ninjask",
+    "nameCN": "铁面忍者",
+    "type1": "Bug",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 292,
+    "name": "Shedinja",
+    "nameCN": "脱壳忍者",
+    "type1": "Bug",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 293,
+    "name": "Whismur",
+    "nameCN": "咕妞妞",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 294,
+    "name": "Loudred",
+    "nameCN": "吼爆弹",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 295,
+    "name": "Exploud",
+    "nameCN": "爆音怪",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 296,
+    "name": "Makuhita",
+    "nameCN": "幕下力士",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 297,
+    "name": "Hariyama",
+    "nameCN": "铁掌力士",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 298,
+    "name": "Azurill",
+    "nameCN": "露力丽",
+    "type1": "Normal",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 299,
+    "name": "Nosepass",
+    "nameCN": "朝北鼻",
+    "type1": "Rock",
+    "type2": ""
+  },
+  {
+    "nationalNo": 300,
+    "name": "Skitty",
+    "nameCN": "向尾喵",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 301,
+    "name": "Delcatty",
+    "nameCN": "优雅猫",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 302,
+    "name": "Sableye",
+    "nameCN": "勾魂眼",
+    "type1": "Dark",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 303,
+    "name": "Mawile",
+    "nameCN": "大嘴娃",
+    "type1": "Steel",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 304,
+    "name": "Aron",
+    "nameCN": "可可多拉",
+    "type1": "Steel",
+    "type2": "Rock"
+  },
+  {
+    "nationalNo": 305,
+    "name": "Lairon",
+    "nameCN": "可多拉",
+    "type1": "Steel",
+    "type2": "Rock"
+  },
+  {
+    "nationalNo": 306,
+    "name": "Aggron",
+    "nameCN": "波士可多拉",
+    "type1": "Steel",
+    "type2": "Rock"
+  },
+  {
+    "nationalNo": 307,
+    "name": "Meditite",
+    "nameCN": "玛沙那",
+    "type1": "Fighting",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 308,
+    "name": "Medicham",
+    "nameCN": "恰雷姆",
+    "type1": "Fighting",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 309,
+    "name": "Electrike",
+    "nameCN": "落雷兽",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 310,
+    "name": "Manectric",
+    "nameCN": "雷电兽",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 311,
+    "name": "Plusle",
+    "nameCN": "正电拍拍",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 312,
+    "name": "Minun",
+    "nameCN": "负电拍拍",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 313,
+    "name": "Volbeat",
+    "nameCN": "电萤虫",
+    "type1": "Bug",
+    "type2": ""
+  },
+  {
+    "nationalNo": 314,
+    "name": "Illumise",
+    "nameCN": "甜甜萤",
+    "type1": "Bug",
+    "type2": ""
+  },
+  {
+    "nationalNo": 315,
+    "name": "Roselia",
+    "nameCN": "毒蔷薇",
+    "type1": "Grass",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 316,
+    "name": "Gulpin",
+    "nameCN": "溶食兽",
+    "type1": "Poison",
+    "type2": ""
+  },
+  {
+    "nationalNo": 317,
+    "name": "Swalot",
+    "nameCN": "吞食兽",
+    "type1": "Poison",
+    "type2": ""
+  },
+  {
+    "nationalNo": 318,
+    "name": "Carvanha",
+    "nameCN": "利牙鱼",
+    "type1": "Water",
+    "type2": "Dark"
+  },
+  {
+    "nationalNo": 319,
+    "name": "Sharpedo",
+    "nameCN": "巨牙鲨",
+    "type1": "Water",
+    "type2": "Dark"
+  },
+  {
+    "nationalNo": 320,
+    "name": "Wailmer",
+    "nameCN": "吼吼鲸",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 321,
+    "name": "Wailord",
+    "nameCN": "吼鲸王",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 322,
+    "name": "Numel",
+    "nameCN": "呆火驼",
+    "type1": "Fire",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 323,
+    "name": "Camerupt",
+    "nameCN": "喷火驼",
+    "type1": "Fire",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 324,
+    "name": "Torkoal",
+    "nameCN": "煤炭龟",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 325,
+    "name": "Spoink",
+    "nameCN": "跳跳猪",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 326,
+    "name": "Grumpig",
+    "nameCN": "噗噗猪",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 327,
+    "name": "Spinda",
+    "nameCN": "晃晃斑",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 328,
+    "name": "Trapinch",
+    "nameCN": "大颚蚁",
+    "type1": "Ground",
+    "type2": ""
+  },
+  {
+    "nationalNo": 329,
+    "name": "Vibrava",
+    "nameCN": "超音波幼虫",
+    "type1": "Ground",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 330,
+    "name": "Flygon",
+    "nameCN": "沙漠蜻蜓",
+    "type1": "Ground",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 331,
+    "name": "Cacnea",
+    "nameCN": "刺球仙人掌",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 332,
+    "name": "Cacturne",
+    "nameCN": "梦歌仙人掌",
+    "type1": "Grass",
+    "type2": "Dark"
+  },
+  {
+    "nationalNo": 333,
+    "name": "Swablu",
+    "nameCN": "青绵鸟",
+    "type1": "Normal",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 334,
+    "name": "Altaria",
+    "nameCN": "七夕青鸟",
+    "type1": "Dragon",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 335,
+    "name": "Zangoose",
+    "nameCN": "猫鼬斩",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 336,
+    "name": "Seviper",
+    "nameCN": "饭匙蛇",
+    "type1": "Poison",
+    "type2": ""
+  },
+  {
+    "nationalNo": 337,
+    "name": "Lunatone",
+    "nameCN": "月石",
+    "type1": "Rock",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 338,
+    "name": "Solrock",
+    "nameCN": "太阳岩",
+    "type1": "Rock",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 339,
+    "name": "Barboach",
+    "nameCN": "泥泥鳅",
+    "type1": "Water",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 340,
+    "name": "Whiscash",
+    "nameCN": "鲶鱼王",
+    "type1": "Water",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 341,
+    "name": "Corphish",
+    "nameCN": "龙虾小兵",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 342,
+    "name": "Crawdaunt",
+    "nameCN": "铁螯龙虾",
+    "type1": "Water",
+    "type2": "Dark"
+  },
+  {
+    "nationalNo": 343,
+    "name": "Baltoy",
+    "nameCN": "天秤偶",
+    "type1": "Ground",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 344,
+    "name": "Claydol",
+    "nameCN": "念力土偶",
+    "type1": "Ground",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 345,
+    "name": "Lileep",
+    "nameCN": "触手百合",
+    "type1": "Rock",
+    "type2": "Grass"
+  },
+  {
+    "nationalNo": 346,
+    "name": "Cradily",
+    "nameCN": "摇篮百合",
+    "type1": "Rock",
+    "type2": "Grass"
+  },
+  {
+    "nationalNo": 347,
+    "name": "Anorith",
+    "nameCN": "太古羽虫",
+    "type1": "Rock",
+    "type2": "Bug"
+  },
+  {
+    "nationalNo": 348,
+    "name": "Armaldo",
+    "nameCN": "太古盔甲",
+    "type1": "Rock",
+    "type2": "Bug"
+  },
+  {
+    "nationalNo": 349,
+    "name": "Feebas",
+    "nameCN": "丑丑鱼",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 350,
+    "name": "Milotic",
+    "nameCN": "美纳斯",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 351,
+    "name": "Castform",
+    "nameCN": "飘浮泡泡",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 352,
+    "name": "Kecleon",
+    "nameCN": "变隐龙",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 353,
+    "name": "Shuppet",
+    "nameCN": "怨影娃娃",
+    "type1": "Ghost",
+    "type2": ""
+  },
+  {
+    "nationalNo": 354,
+    "name": "Banette",
+    "nameCN": "诅咒娃娃",
+    "type1": "Ghost",
+    "type2": ""
+  },
+  {
+    "nationalNo": 355,
+    "name": "Duskull",
+    "nameCN": "夜巡灵",
+    "type1": "Ghost",
+    "type2": ""
+  },
+  {
+    "nationalNo": 356,
+    "name": "Dusclops",
+    "nameCN": "彷徨夜灵",
+    "type1": "Ghost",
+    "type2": ""
+  },
+  {
+    "nationalNo": 357,
+    "name": "Tropius",
+    "nameCN": "热带龙",
+    "type1": "Grass",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 358,
+    "name": "Chimecho",
+    "nameCN": "风铃铃",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 359,
+    "name": "Absol",
+    "nameCN": "阿勃梭鲁",
+    "type1": "Dark",
+    "type2": ""
+  },
+  {
+    "nationalNo": 360,
+    "name": "Wynaut",
+    "nameCN": "小果然",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 361,
+    "name": "Snorunt",
+    "nameCN": "雪童子",
+    "type1": "Ice",
+    "type2": ""
+  },
+  {
+    "nationalNo": 362,
+    "name": "Glalie",
+    "nameCN": "冰鬼护",
+    "type1": "Ice",
+    "type2": ""
+  },
+  {
+    "nationalNo": 363,
+    "name": "Spheal",
+    "nameCN": "海豹球",
+    "type1": "Ice",
+    "type2": "Water"
+  },
+  {
+    "nationalNo": 364,
+    "name": "Sealeo",
+    "nameCN": "海魔狮",
+    "type1": "Ice",
+    "type2": "Water"
+  },
+  {
+    "nationalNo": 365,
+    "name": "Walrein",
+    "nameCN": "帝牙海狮",
+    "type1": "Ice",
+    "type2": "Water"
+  },
+  {
+    "nationalNo": 366,
+    "name": "Clamperl",
+    "nameCN": "珍珠贝",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 367,
+    "name": "Huntail",
+    "nameCN": "猎斑鱼",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 368,
+    "name": "Gorebyss",
+    "nameCN": "樱花鱼",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 369,
+    "name": "Relicanth",
+    "nameCN": "古空棘鱼",
+    "type1": "Water",
+    "type2": "Rock"
+  },
+  {
+    "nationalNo": 370,
+    "name": "Luvdisc",
+    "nameCN": "爱心鱼",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 371,
+    "name": "Bagon",
+    "nameCN": "宝贝龙",
+    "type1": "Dragon",
+    "type2": ""
+  },
+  {
+    "nationalNo": 372,
+    "name": "Shelgon",
+    "nameCN": "甲壳龙",
+    "type1": "Dragon",
+    "type2": ""
+  },
+  {
+    "nationalNo": 373,
+    "name": "Salamence",
+    "nameCN": "暴飞龙",
+    "type1": "Dragon",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 374,
+    "name": "Beldum",
+    "nameCN": "铁哑铃",
+    "type1": "Steel",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 375,
+    "name": "Metang",
+    "nameCN": "金属怪",
+    "type1": "Steel",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 376,
+    "name": "Metagross",
+    "nameCN": "巨金怪",
+    "type1": "Steel",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 377,
+    "name": "Regirock",
+    "nameCN": "雷吉洛克",
+    "type1": "Rock",
+    "type2": ""
+  },
+  {
+    "nationalNo": 378,
+    "name": "Regice",
+    "nameCN": "雷吉艾斯",
+    "type1": "Ice",
+    "type2": ""
+  },
+  {
+    "nationalNo": 379,
+    "name": "Registeel",
+    "nameCN": "雷吉斯奇鲁",
+    "type1": "Steel",
+    "type2": ""
+  },
+  {
+    "nationalNo": 380,
+    "name": "Latias",
+    "nameCN": "拉帝亚斯",
+    "type1": "Dragon",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 381,
+    "name": "Latios",
+    "nameCN": "拉帝欧斯",
+    "type1": "Dragon",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 382,
+    "name": "Kyogre",
+    "nameCN": "盖欧卡",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 383,
+    "name": "Groudon",
+    "nameCN": "固拉多",
+    "type1": "Ground",
+    "type2": ""
+  },
+  {
+    "nationalNo": 384,
+    "name": "Rayquaza",
+    "nameCN": "烈空坐",
+    "type1": "Dragon",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 385,
+    "name": "Jirachi",
+    "nameCN": "基拉祈",
+    "type1": "Steel",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 386,
+    "name": "Deoxys",
+    "nameCN": "代欧奇希斯",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 387,
+    "name": "Turtwig",
+    "nameCN": "草苗龟",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 388,
+    "name": "Grotle",
+    "nameCN": "树林龟",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 389,
+    "name": "Torterra",
+    "nameCN": "土台龟",
+    "type1": "Grass",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 390,
+    "name": "Chimchar",
+    "nameCN": "小火焰猴",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 391,
+    "name": "Monferno",
+    "nameCN": "猛火猴",
+    "type1": "Fire",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 392,
+    "name": "Infernape",
+    "nameCN": "烈焰猴",
+    "type1": "Fire",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 393,
+    "name": "Piplup",
+    "nameCN": "波加曼",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 394,
+    "name": "Prinplup",
+    "nameCN": "波皇子",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 395,
+    "name": "Empoleon",
+    "nameCN": "帝王拿波",
+    "type1": "Water",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 396,
+    "name": "Starly",
+    "nameCN": "姆克儿",
+    "type1": "Normal",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 397,
+    "name": "Staravia",
+    "nameCN": "姆克鸟",
+    "type1": "Normal",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 398,
+    "name": "Staraptor",
+    "nameCN": "姆克鹰",
+    "type1": "Normal",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 399,
+    "name": "Bidoof",
+    "nameCN": "大牙狸",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 400,
+    "name": "Bibarel",
+    "nameCN": "大尾狸",
+    "type1": "Normal",
+    "type2": "Water"
+  },
+  {
+    "nationalNo": 401,
+    "name": "Kricketot",
+    "nameCN": "圆法师",
+    "type1": "Bug",
+    "type2": ""
+  },
+  {
+    "nationalNo": 402,
+    "name": "Kricketune",
+    "nameCN": "音箱蟀",
+    "type1": "Bug",
+    "type2": ""
+  },
+  {
+    "nationalNo": 403,
+    "name": "Shinx",
+    "nameCN": "小猫怪",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 404,
+    "name": "Luxio",
+    "nameCN": "勒克猫",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 405,
+    "name": "Luxray",
+    "nameCN": "伦琴猫",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 406,
+    "name": "Budew",
+    "nameCN": "含羞苞",
+    "type1": "Grass",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 407,
+    "name": "Roserade",
+    "nameCN": "罗丝雷朵",
+    "type1": "Grass",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 408,
+    "name": "Cranidos",
+    "nameCN": "头盖龙",
+    "type1": "Rock",
+    "type2": ""
+  },
+  {
+    "nationalNo": 409,
+    "name": "Rampardos",
+    "nameCN": "战槌龙",
+    "type1": "Rock",
+    "type2": ""
+  },
+  {
+    "nationalNo": 410,
+    "name": "Shieldon",
+    "nameCN": "盾甲龙",
+    "type1": "Rock",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 411,
+    "name": "Bastiodon",
+    "nameCN": "护城龙",
+    "type1": "Rock",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 412,
+    "name": "Burmy",
+    "nameCN": "结草儿",
+    "type1": "Bug",
+    "type2": ""
+  },
+  {
+    "nationalNo": 413,
+    "name": "Wormadam",
+    "nameCN": "结草贵妇",
+    "type1": "Bug",
+    "type2": "Grass"
+  },
+  {
+    "nationalNo": 414,
+    "name": "Mothim",
+    "nameCN": "绅士蛾",
+    "type1": "Bug",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 415,
+    "name": "Combee",
+    "nameCN": "三蜜蜂",
+    "type1": "Bug",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 416,
+    "name": "Vespiquen",
+    "nameCN": "蜂女王",
+    "type1": "Bug",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 417,
+    "name": "Pachirisu",
+    "nameCN": "帕奇利兹",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 418,
+    "name": "Buizel",
+    "nameCN": "泳圈鼬",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 419,
+    "name": "Floatzel",
+    "nameCN": "浮潜鼬",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 420,
+    "name": "Cherubi",
+    "nameCN": "樱花宝",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 421,
+    "name": "Cherrim",
+    "nameCN": "樱花儿",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 422,
+    "name": "Shellos",
+    "nameCN": "无壳海兔",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 423,
+    "name": "Gastrodon",
+    "nameCN": "海兔兽",
+    "type1": "Water",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 424,
+    "name": "Ambipom",
+    "nameCN": "双尾怪手",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 425,
+    "name": "Drifloon",
+    "nameCN": "飘飘球",
+    "type1": "Ghost",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 426,
+    "name": "Drifblim",
+    "nameCN": "随风球",
+    "type1": "Ghost",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 427,
+    "name": "Buneary",
+    "nameCN": "卷卷耳",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 428,
+    "name": "Lopunny",
+    "nameCN": "长耳兔",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 429,
+    "name": "Mismagius",
+    "nameCN": "梦妖魔",
+    "type1": "Ghost",
+    "type2": ""
+  },
+  {
+    "nationalNo": 430,
+    "name": "Honchkrow",
+    "nameCN": "乌鸦头头",
+    "type1": "Dark",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 431,
+    "name": "Glameow",
+    "nameCN": "魅力喵",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 432,
+    "name": "Purugly",
+    "nameCN": "东施喵",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 433,
+    "name": "Chingling",
+    "nameCN": "铃铛响",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 434,
+    "name": "Stunky",
+    "nameCN": "臭鼬噗",
+    "type1": "Poison",
+    "type2": "Dark"
+  },
+  {
+    "nationalNo": 435,
+    "name": "Skuntank",
+    "nameCN": "坦克臭鼬",
+    "type1": "Poison",
+    "type2": "Dark"
+  },
+  {
+    "nationalNo": 436,
+    "name": "Bronzor",
+    "nameCN": "铜镜怪",
+    "type1": "Steel",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 437,
+    "name": "Bronzong",
+    "nameCN": "青铜钟",
+    "type1": "Steel",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 438,
+    "name": "Bonsly",
+    "nameCN": "盆才怪",
+    "type1": "Rock",
+    "type2": ""
+  },
+  {
+    "nationalNo": 439,
+    "name": "Mime Jr.",
+    "nameCN": "魔尼尼",
+    "type1": "Psychic",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 440,
+    "name": "Happiny",
+    "nameCN": "小福蛋",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 441,
+    "name": "Chatot",
+    "nameCN": "聒噪鸟",
+    "type1": "Normal",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 442,
+    "name": "Spiritomb",
+    "nameCN": "花岩怪",
+    "type1": "Ghost",
+    "type2": "Dark"
+  },
+  {
+    "nationalNo": 443,
+    "name": "Gible",
+    "nameCN": "圆陆鲨",
+    "type1": "Dragon",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 444,
+    "name": "Gabite",
+    "nameCN": "尖牙陆鲨",
+    "type1": "Dragon",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 445,
+    "name": "Garchomp",
+    "nameCN": "烈咬陆鲨",
+    "type1": "Dragon",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 446,
+    "name": "Munchlax",
+    "nameCN": "小卡比兽",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 447,
+    "name": "Riolu",
+    "nameCN": "利欧路",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 448,
+    "name": "Lucario",
+    "nameCN": "路卡利欧",
+    "type1": "Fighting",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 449,
+    "name": "Hippopotas",
+    "nameCN": "沙河马",
+    "type1": "Ground",
+    "type2": ""
+  },
+  {
+    "nationalNo": 450,
+    "name": "Hippowdon",
+    "nameCN": "河马兽",
+    "type1": "Ground",
+    "type2": ""
+  },
+  {
+    "nationalNo": 451,
+    "name": "Skorupi",
+    "nameCN": "钳尾蝎",
+    "type1": "Poison",
+    "type2": "Bug"
+  },
+  {
+    "nationalNo": 452,
+    "name": "Drapion",
+    "nameCN": "龙王蝎",
+    "type1": "Poison",
+    "type2": "Dark"
+  },
+  {
+    "nationalNo": 453,
+    "name": "Croagunk",
+    "nameCN": "不良蛙",
+    "type1": "Poison",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 454,
+    "name": "Toxicroak",
+    "nameCN": "毒骷蛙",
+    "type1": "Poison",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 455,
+    "name": "Carnivine",
+    "nameCN": "尖牙笼",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 456,
+    "name": "Finneon",
+    "nameCN": "荧光鱼",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 457,
+    "name": "Lumineon",
+    "nameCN": "霓虹鱼",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 458,
+    "name": "Mantyke",
+    "nameCN": "小球飞鱼",
+    "type1": "Water",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 459,
+    "name": "Snover",
+    "nameCN": "雪笠怪",
+    "type1": "Grass",
+    "type2": "Ice"
+  },
+  {
+    "nationalNo": 460,
+    "name": "Abomasnow",
+    "nameCN": "暴雪王",
+    "type1": "Grass",
+    "type2": "Ice"
+  },
+  {
+    "nationalNo": 461,
+    "name": "Weavile",
+    "nameCN": "玛狃拉",
+    "type1": "Dark",
+    "type2": "Ice"
+  },
+  {
+    "nationalNo": 462,
+    "name": "Magnezone",
+    "nameCN": "自爆磁怪",
+    "type1": "Electric",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 463,
+    "name": "Lickilicky",
+    "nameCN": "大舌舔",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 464,
+    "name": "Rhyperior",
+    "nameCN": "超甲狂犀",
+    "type1": "Ground",
+    "type2": "Rock"
+  },
+  {
+    "nationalNo": 465,
+    "name": "Tangrowth",
+    "nameCN": "巨蔓藤",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 466,
+    "name": "Electivire",
+    "nameCN": "电击魔兽",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 467,
+    "name": "Magmortar",
+    "nameCN": "鸭嘴炎兽",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 468,
+    "name": "Togekiss",
+    "nameCN": "波克基斯",
+    "type1": "Fairy",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 469,
+    "name": "Yanmega",
+    "nameCN": "远古巨蜓",
+    "type1": "Bug",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 470,
+    "name": "Leafeon",
+    "nameCN": "叶伊布",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 471,
+    "name": "Glaceon",
+    "nameCN": "冰伊布",
+    "type1": "Ice",
+    "type2": ""
+  },
+  {
+    "nationalNo": 472,
+    "name": "Gliscor",
+    "nameCN": "天蝎王",
+    "type1": "Ground",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 473,
+    "name": "Mamoswine",
+    "nameCN": "象牙猪",
+    "type1": "Ice",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 474,
+    "name": "Porygon-Z",
+    "nameCN": "多边兽Ｚ",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 475,
+    "name": "Gallade",
+    "nameCN": "艾路雷朵",
+    "type1": "Psychic",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 476,
+    "name": "Probopass",
+    "nameCN": "大朝北鼻",
+    "type1": "Rock",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 477,
+    "name": "Dusknoir",
+    "nameCN": "黑夜魔灵",
+    "type1": "Ghost",
+    "type2": ""
+  },
+  {
+    "nationalNo": 478,
+    "name": "Froslass",
+    "nameCN": "雪妖女",
+    "type1": "Ice",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 479,
+    "name": "Rotom",
+    "nameCN": "洛托姆",
+    "type1": "Electric",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 480,
+    "name": "Uxie",
+    "nameCN": "由克希",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 481,
+    "name": "Mesprit",
+    "nameCN": "艾姆利多",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 482,
+    "name": "Azelf",
+    "nameCN": "亚克诺姆",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 483,
+    "name": "Dialga",
+    "nameCN": "帝牙卢卡",
+    "type1": "Steel",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 484,
+    "name": "Palkia",
+    "nameCN": "帕路奇亚",
+    "type1": "Water",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 485,
+    "name": "Heatran",
+    "nameCN": "席多蓝恩",
+    "type1": "Fire",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 486,
+    "name": "Regigigas",
+    "nameCN": "雷吉奇卡斯",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 487,
+    "name": "Giratina",
+    "nameCN": "骑拉帝纳",
+    "type1": "Ghost",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 488,
+    "name": "Cresselia",
+    "nameCN": "克雷色利亚",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 489,
+    "name": "Phione",
+    "nameCN": "霏欧纳",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 490,
+    "name": "Manaphy",
+    "nameCN": "玛纳霏",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 491,
+    "name": "Darkrai",
+    "nameCN": "达克莱伊",
+    "type1": "Dark",
+    "type2": ""
+  },
+  {
+    "nationalNo": 492,
+    "name": "Shaymin",
+    "nameCN": "谢米",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 493,
+    "name": "Arceus",
+    "nameCN": "阿尔宙斯",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 494,
+    "name": "Victini",
+    "nameCN": "比克提尼",
+    "type1": "Psychic",
+    "type2": "Fire"
+  },
+  {
+    "nationalNo": 495,
+    "name": "Snivy",
+    "nameCN": "藤藤蛇",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 496,
+    "name": "Servine",
+    "nameCN": "青藤蛇",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 497,
+    "name": "Serperior",
+    "nameCN": "君主蛇",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 498,
+    "name": "Tepig",
+    "nameCN": "暖暖猪",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 499,
+    "name": "Pignite",
+    "nameCN": "炒炒猪",
+    "type1": "Fire",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 500,
+    "name": "Emboar",
+    "nameCN": "炎武王",
+    "type1": "Fire",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 501,
+    "name": "Oshawott",
+    "nameCN": "水水獭",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 502,
+    "name": "Dewott",
+    "nameCN": "双刃丸",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 503,
+    "name": "Samurott",
+    "nameCN": "大剑鬼",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 504,
+    "name": "Patrat",
+    "nameCN": "探探鼠",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 505,
+    "name": "Watchog",
+    "nameCN": "步哨鼠",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 506,
+    "name": "Lillipup",
+    "nameCN": "小约克",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 507,
+    "name": "Herdier",
+    "nameCN": "哈约克",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 508,
+    "name": "Stoutland",
+    "nameCN": "长毛狗",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 509,
+    "name": "Purrloin",
+    "nameCN": "扒手猫",
+    "type1": "Dark",
+    "type2": ""
+  },
+  {
+    "nationalNo": 510,
+    "name": "Liepard",
+    "nameCN": "酷豹",
+    "type1": "Dark",
+    "type2": ""
+  },
+  {
+    "nationalNo": 511,
+    "name": "Pansage",
+    "nameCN": "花椰猴",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 512,
+    "name": "Simisage",
+    "nameCN": "花椰猿",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 513,
+    "name": "Pansear",
+    "nameCN": "爆香猴",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 514,
+    "name": "Simisear",
+    "nameCN": "爆香猿",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 515,
+    "name": "Panpour",
+    "nameCN": "冷水猴",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 516,
+    "name": "Simipour",
+    "nameCN": "冷水猿",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 517,
+    "name": "Munna",
+    "nameCN": "食梦梦",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 518,
+    "name": "Musharna",
+    "nameCN": "梦梦蚀",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 519,
+    "name": "Pidove",
+    "nameCN": "豆豆鸽",
+    "type1": "Normal",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 520,
+    "name": "Tranquill",
+    "nameCN": "咕咕鸽",
+    "type1": "Normal",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 521,
+    "name": "Unfezant",
+    "nameCN": "高傲雉鸡",
+    "type1": "Normal",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 522,
+    "name": "Blitzle",
+    "nameCN": "斑斑马",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 523,
+    "name": "Zebstrika",
+    "nameCN": "雷电斑马",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 524,
+    "name": "Roggenrola",
+    "nameCN": "石丸子",
+    "type1": "Rock",
+    "type2": ""
+  },
+  {
+    "nationalNo": 525,
+    "name": "Boldore",
+    "nameCN": "地幔岩",
+    "type1": "Rock",
+    "type2": ""
+  },
+  {
+    "nationalNo": 526,
+    "name": "Gigalith",
+    "nameCN": "庞岩怪",
+    "type1": "Rock",
+    "type2": ""
+  },
+  {
+    "nationalNo": 527,
+    "name": "Woobat",
+    "nameCN": "滚滚蝙蝠",
+    "type1": "Psychic",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 528,
+    "name": "Swoobat",
+    "nameCN": "心蝙蝠",
+    "type1": "Psychic",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 529,
+    "name": "Drilbur",
+    "nameCN": "螺钉地鼠",
+    "type1": "Ground",
+    "type2": ""
+  },
+  {
+    "nationalNo": 530,
+    "name": "Excadrill",
+    "nameCN": "龙头地鼠",
+    "type1": "Ground",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 531,
+    "name": "Audino",
+    "nameCN": "差不多娃娃",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 532,
+    "name": "Timburr",
+    "nameCN": "搬运小匠",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 533,
+    "name": "Gurdurr",
+    "nameCN": "铁骨土人",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 534,
+    "name": "Conkeldurr",
+    "nameCN": "修建老匠",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 535,
+    "name": "Tympole",
+    "nameCN": "圆蝌蚪",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 536,
+    "name": "Palpitoad",
+    "nameCN": "蓝蟾蜍",
+    "type1": "Water",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 537,
+    "name": "Seismitoad",
+    "nameCN": "蟾蜍王",
+    "type1": "Water",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 538,
+    "name": "Throh",
+    "nameCN": "投摔鬼",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 539,
+    "name": "Sawk",
+    "nameCN": "打击鬼",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 540,
+    "name": "Sewaddle",
+    "nameCN": "虫宝包",
+    "type1": "Bug",
+    "type2": "Grass"
+  },
+  {
+    "nationalNo": 541,
+    "name": "Swadloon",
+    "nameCN": "宝包茧",
+    "type1": "Bug",
+    "type2": "Grass"
+  },
+  {
+    "nationalNo": 542,
+    "name": "Leavanny",
+    "nameCN": "保姆虫",
+    "type1": "Bug",
+    "type2": "Grass"
+  },
+  {
+    "nationalNo": 543,
+    "name": "Venipede",
+    "nameCN": "百足蜈蚣",
+    "type1": "Bug",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 544,
+    "name": "Whirlipede",
+    "nameCN": "车轮球",
+    "type1": "Bug",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 545,
+    "name": "Scolipede",
+    "nameCN": "蜈蚣王",
+    "type1": "Bug",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 546,
+    "name": "Cottonee",
+    "nameCN": "木棉球",
+    "type1": "Grass",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 547,
+    "name": "Whimsicott",
+    "nameCN": "风妖精",
+    "type1": "Grass",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 548,
+    "name": "Petilil",
+    "nameCN": "百合根娃娃",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 549,
+    "name": "Lilligant",
+    "nameCN": "裙儿小姐",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 550,
+    "name": "Basculin",
+    "nameCN": "野蛮鲈鱼",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 551,
+    "name": "Sandile",
+    "nameCN": "黑眼鳄",
+    "type1": "Ground",
+    "type2": "Dark"
+  },
+  {
+    "nationalNo": 552,
+    "name": "Krokorok",
+    "nameCN": "混混鳄",
+    "type1": "Ground",
+    "type2": "Dark"
+  },
+  {
+    "nationalNo": 553,
+    "name": "Krookodile",
+    "nameCN": "流氓鳄",
+    "type1": "Ground",
+    "type2": "Dark"
+  },
+  {
+    "nationalNo": 554,
+    "name": "Darumaka",
+    "nameCN": "火红不倒翁",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 555,
+    "name": "Darmanitan",
+    "nameCN": "达摩狒狒",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 556,
+    "name": "Maractus",
+    "nameCN": "沙铃仙人掌",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 557,
+    "name": "Dwebble",
+    "nameCN": "石居蟹",
+    "type1": "Bug",
+    "type2": "Rock"
+  },
+  {
+    "nationalNo": 558,
+    "name": "Crustle",
+    "nameCN": "岩殿居蟹",
+    "type1": "Bug",
+    "type2": "Rock"
+  },
+  {
+    "nationalNo": 559,
+    "name": "Scraggy",
+    "nameCN": "滑滑小子",
+    "type1": "Dark",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 560,
+    "name": "Scrafty",
+    "nameCN": "头巾混混",
+    "type1": "Dark",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 561,
+    "name": "Sigilyph",
+    "nameCN": "象征鸟",
+    "type1": "Psychic",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 562,
+    "name": "Yamask",
+    "nameCN": "哭哭面具",
+    "type1": "Ghost",
+    "type2": ""
+  },
+  {
+    "nationalNo": 563,
+    "name": "Cofagrigus",
+    "nameCN": "死神棺",
+    "type1": "Ghost",
+    "type2": ""
+  },
+  {
+    "nationalNo": 564,
+    "name": "Tirtouga",
+    "nameCN": "原盖海龟",
+    "type1": "Water",
+    "type2": "Rock"
+  },
+  {
+    "nationalNo": 565,
+    "name": "Carracosta",
+    "nameCN": "肋骨海龟",
+    "type1": "Water",
+    "type2": "Rock"
+  },
+  {
+    "nationalNo": 566,
+    "name": "Archen",
+    "nameCN": "始祖小鸟",
+    "type1": "Rock",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 567,
+    "name": "Archeops",
+    "nameCN": "始祖大鸟",
+    "type1": "Rock",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 568,
+    "name": "Trubbish",
+    "nameCN": "破破袋",
+    "type1": "Poison",
+    "type2": ""
+  },
+  {
+    "nationalNo": 569,
+    "name": "Garbodor",
+    "nameCN": "灰尘山",
+    "type1": "Poison",
+    "type2": ""
+  },
+  {
+    "nationalNo": 570,
+    "name": "Zorua",
+    "nameCN": "索罗亚",
+    "type1": "Dark",
+    "type2": ""
+  },
+  {
+    "nationalNo": 571,
+    "name": "Zoroark",
+    "nameCN": "索罗亚克",
+    "type1": "Dark",
+    "type2": ""
+  },
+  {
+    "nationalNo": 572,
+    "name": "Minccino",
+    "nameCN": "泡沫栗鼠",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 573,
+    "name": "Cinccino",
+    "nameCN": "奇诺栗鼠",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 574,
+    "name": "Gothita",
+    "nameCN": "哥德宝宝",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 575,
+    "name": "Gothorita",
+    "nameCN": "哥德小童",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 576,
+    "name": "Gothitelle",
+    "nameCN": "哥德小姐",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 577,
+    "name": "Solosis",
+    "nameCN": "单卵细胞球",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 578,
+    "name": "Duosion",
+    "nameCN": "双卵细胞球",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 579,
+    "name": "Reuniclus",
+    "nameCN": "人造细胞卵",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 580,
+    "name": "Ducklett",
+    "nameCN": "鸭宝宝",
+    "type1": "Water",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 581,
+    "name": "Swanna",
+    "nameCN": "舞天鹅",
+    "type1": "Water",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 582,
+    "name": "Vanillite",
+    "nameCN": "迷你冰",
+    "type1": "Ice",
+    "type2": ""
+  },
+  {
+    "nationalNo": 583,
+    "name": "Vanillish",
+    "nameCN": "多多冰",
+    "type1": "Ice",
+    "type2": ""
+  },
+  {
+    "nationalNo": 584,
+    "name": "Vanilluxe",
+    "nameCN": "双倍多多冰",
+    "type1": "Ice",
+    "type2": ""
+  },
+  {
+    "nationalNo": 585,
+    "name": "Deerling",
+    "nameCN": "四季鹿",
+    "type1": "Normal",
+    "type2": "Grass"
+  },
+  {
+    "nationalNo": 586,
+    "name": "Sawsbuck",
+    "nameCN": "萌芽鹿",
+    "type1": "Normal",
+    "type2": "Grass"
+  },
+  {
+    "nationalNo": 587,
+    "name": "Emolga",
+    "nameCN": "电飞鼠",
+    "type1": "Electric",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 588,
+    "name": "Karrablast",
+    "nameCN": "盖盖虫",
+    "type1": "Bug",
+    "type2": ""
+  },
+  {
+    "nationalNo": 589,
+    "name": "Escavalier",
+    "nameCN": "骑士蜗牛",
+    "type1": "Bug",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 590,
+    "name": "Foongus",
+    "nameCN": "哎呀球菇",
+    "type1": "Grass",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 591,
+    "name": "Amoonguss",
+    "nameCN": "败露球菇",
+    "type1": "Grass",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 592,
+    "name": "Frillish",
+    "nameCN": "轻飘飘",
+    "type1": "Water",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 593,
+    "name": "Jellicent",
+    "nameCN": "胖嘟嘟",
+    "type1": "Water",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 594,
+    "name": "Alomomola",
+    "nameCN": "保母曼波",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 595,
+    "name": "Joltik",
+    "nameCN": "电电虫",
+    "type1": "Bug",
+    "type2": "Electric"
+  },
+  {
+    "nationalNo": 596,
+    "name": "Galvantula",
+    "nameCN": "电蜘蛛",
+    "type1": "Bug",
+    "type2": "Electric"
+  },
+  {
+    "nationalNo": 597,
+    "name": "Ferroseed",
+    "nameCN": "种子铁球",
+    "type1": "Grass",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 598,
+    "name": "Ferrothorn",
+    "nameCN": "坚果哑铃",
+    "type1": "Grass",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 599,
+    "name": "Klink",
+    "nameCN": "齿轮儿",
+    "type1": "Steel",
+    "type2": ""
+  },
+  {
+    "nationalNo": 600,
+    "name": "Klang",
+    "nameCN": "齿轮组",
+    "type1": "Steel",
+    "type2": ""
+  },
+  {
+    "nationalNo": 601,
+    "name": "Klinklang",
+    "nameCN": "齿轮怪",
+    "type1": "Steel",
+    "type2": ""
+  },
+  {
+    "nationalNo": 602,
+    "name": "Tynamo",
+    "nameCN": "麻麻小鱼",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 603,
+    "name": "Eelektrik",
+    "nameCN": "麻麻鳗",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 604,
+    "name": "Eelektross",
+    "nameCN": "麻麻鳗鱼王",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 605,
+    "name": "Elgyem",
+    "nameCN": "小灰怪",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 606,
+    "name": "Beheeyem",
+    "nameCN": "大宇怪",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 607,
+    "name": "Litwick",
+    "nameCN": "烛光灵",
+    "type1": "Ghost",
+    "type2": "Fire"
+  },
+  {
+    "nationalNo": 608,
+    "name": "Lampent",
+    "nameCN": "灯火幽灵",
+    "type1": "Ghost",
+    "type2": "Fire"
+  },
+  {
+    "nationalNo": 609,
+    "name": "Chandelure",
+    "nameCN": "水晶灯火灵",
+    "type1": "Ghost",
+    "type2": "Fire"
+  },
+  {
+    "nationalNo": 610,
+    "name": "Axew",
+    "nameCN": "牙牙",
+    "type1": "Dragon",
+    "type2": ""
+  },
+  {
+    "nationalNo": 611,
+    "name": "Fraxure",
+    "nameCN": "斧牙龙",
+    "type1": "Dragon",
+    "type2": ""
+  },
+  {
+    "nationalNo": 612,
+    "name": "Haxorus",
+    "nameCN": "双斧战龙",
+    "type1": "Dragon",
+    "type2": ""
+  },
+  {
+    "nationalNo": 613,
+    "name": "Cubchoo",
+    "nameCN": "喷嚏熊",
+    "type1": "Ice",
+    "type2": ""
+  },
+  {
+    "nationalNo": 614,
+    "name": "Beartic",
+    "nameCN": "冻原熊",
+    "type1": "Ice",
+    "type2": ""
+  },
+  {
+    "nationalNo": 615,
+    "name": "Cryogonal",
+    "nameCN": "几何雪花",
+    "type1": "Ice",
+    "type2": ""
+  },
+  {
+    "nationalNo": 616,
+    "name": "Shelmet",
+    "nameCN": "小嘴蜗",
+    "type1": "Bug",
+    "type2": ""
+  },
+  {
+    "nationalNo": 617,
+    "name": "Accelgor",
+    "nameCN": "敏捷虫",
+    "type1": "Bug",
+    "type2": ""
+  },
+  {
+    "nationalNo": 618,
+    "name": "Stunfisk",
+    "nameCN": "泥巴鱼",
+    "type1": "Ground",
+    "type2": "Electric"
+  },
+  {
+    "nationalNo": 619,
+    "name": "Mienfoo",
+    "nameCN": "功夫鼬",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 620,
+    "name": "Mienshao",
+    "nameCN": "师父鼬",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 621,
+    "name": "Druddigon",
+    "nameCN": "赤面龙",
+    "type1": "Dragon",
+    "type2": ""
+  },
+  {
+    "nationalNo": 622,
+    "name": "Golett",
+    "nameCN": "泥偶小人",
+    "type1": "Ground",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 623,
+    "name": "Golurk",
+    "nameCN": "泥偶巨人",
+    "type1": "Ground",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 624,
+    "name": "Pawniard",
+    "nameCN": "驹刀小兵",
+    "type1": "Dark",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 625,
+    "name": "Bisharp",
+    "nameCN": "劈斩司令",
+    "type1": "Dark",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 626,
+    "name": "Bouffalant",
+    "nameCN": "爆炸头水牛",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 627,
+    "name": "Rufflet",
+    "nameCN": "毛头小鹰",
+    "type1": "Normal",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 628,
+    "name": "Braviary",
+    "nameCN": "勇士雄鹰",
+    "type1": "Normal",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 629,
+    "name": "Vullaby",
+    "nameCN": "秃鹰丫头",
+    "type1": "Dark",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 630,
+    "name": "Mandibuzz",
+    "nameCN": "秃鹰娜",
+    "type1": "Dark",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 631,
+    "name": "Heatmor",
+    "nameCN": "熔蚁兽",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 632,
+    "name": "Durant",
+    "nameCN": "铁蚁",
+    "type1": "Bug",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 633,
+    "name": "Deino",
+    "nameCN": "单首龙",
+    "type1": "Dark",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 634,
+    "name": "Zweilous",
+    "nameCN": "双首暴龙",
+    "type1": "Dark",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 635,
+    "name": "Hydreigon",
+    "nameCN": "三首恶龙",
+    "type1": "Dark",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 636,
+    "name": "Larvesta",
+    "nameCN": "燃烧虫",
+    "type1": "Bug",
+    "type2": "Fire"
+  },
+  {
+    "nationalNo": 637,
+    "name": "Volcarona",
+    "nameCN": "火神蛾",
+    "type1": "Bug",
+    "type2": "Fire"
+  },
+  {
+    "nationalNo": 638,
+    "name": "Cobalion",
+    "nameCN": "勾帕路翁",
+    "type1": "Steel",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 639,
+    "name": "Terrakion",
+    "nameCN": "代拉基翁",
+    "type1": "Rock",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 640,
+    "name": "Virizion",
+    "nameCN": "毕力吉翁",
+    "type1": "Grass",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 641,
+    "name": "Tornadus",
+    "nameCN": "龙卷云",
+    "type1": "Flying",
+    "type2": ""
+  },
+  {
+    "nationalNo": 642,
+    "name": "Thundurus",
+    "nameCN": "雷电云",
+    "type1": "Electric",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 643,
+    "name": "Reshiram",
+    "nameCN": "莱希拉姆",
+    "type1": "Dragon",
+    "type2": "Fire"
+  },
+  {
+    "nationalNo": 644,
+    "name": "Zekrom",
+    "nameCN": "捷克罗姆",
+    "type1": "Dragon",
+    "type2": "Electric"
+  },
+  {
+    "nationalNo": 645,
+    "name": "Landorus",
+    "nameCN": "土地云",
+    "type1": "Ground",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 646,
+    "name": "Kyurem",
+    "nameCN": "酋雷姆",
+    "type1": "Dragon",
+    "type2": "Ice"
+  },
+  {
+    "nationalNo": 647,
+    "name": "Keldeo",
+    "nameCN": "凯路迪欧",
+    "type1": "Water",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 648,
+    "name": "Meloetta",
+    "nameCN": "美洛耶塔",
+    "type1": "Normal",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 649,
+    "name": "Genesect",
+    "nameCN": "盖诺赛克特",
+    "type1": "Bug",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 650,
+    "name": "Chespin",
+    "nameCN": "哈力栗",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 651,
+    "name": "Quilladin",
+    "nameCN": "胖胖哈力",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 652,
+    "name": "Chesnaught",
+    "nameCN": "布里卡隆",
+    "type1": "Grass",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 653,
+    "name": "Fennekin",
+    "nameCN": "火狐狸",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 654,
+    "name": "Braixen",
+    "nameCN": "长尾火狐",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 655,
+    "name": "Delphox",
+    "nameCN": "妖火红狐",
+    "type1": "Fire",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 656,
+    "name": "Froakie",
+    "nameCN": "呱呱泡蛙",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 657,
+    "name": "Frogadier",
+    "nameCN": "呱头蛙",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 658,
+    "name": "Greninja",
+    "nameCN": "甲贺忍蛙",
+    "type1": "Water",
+    "type2": "Dark"
+  },
+  {
+    "nationalNo": 659,
+    "name": "Bunnelby",
+    "nameCN": "掘掘兔",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 660,
+    "name": "Diggersby",
+    "nameCN": "掘地兔",
+    "type1": "Normal",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 661,
+    "name": "Fletchling",
+    "nameCN": "小箭雀",
+    "type1": "Normal",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 662,
+    "name": "Fletchinder",
+    "nameCN": "火箭雀",
+    "type1": "Fire",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 663,
+    "name": "Talonflame",
+    "nameCN": "烈箭鹰",
+    "type1": "Fire",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 664,
+    "name": "Scatterbug",
+    "nameCN": "粉蝶虫",
+    "type1": "Bug",
+    "type2": ""
+  },
+  {
+    "nationalNo": 665,
+    "name": "Spewpa",
+    "nameCN": "粉蝶蛹",
+    "type1": "Bug",
+    "type2": ""
+  },
+  {
+    "nationalNo": 666,
+    "name": "Vivillon",
+    "nameCN": "彩粉蝶",
+    "type1": "Bug",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 667,
+    "name": "Litleo",
+    "nameCN": "小狮狮",
+    "type1": "Fire",
+    "type2": "Normal"
+  },
+  {
+    "nationalNo": 668,
+    "name": "Pyroar",
+    "nameCN": "火炎狮",
+    "type1": "Fire",
+    "type2": "Normal"
+  },
+  {
+    "nationalNo": 669,
+    "name": "Flabébé",
+    "nameCN": "花蓓蓓",
+    "type1": "Fairy",
+    "type2": ""
+  },
+  {
+    "nationalNo": 670,
+    "name": "Floette",
+    "nameCN": "花叶蒂",
+    "type1": "Fairy",
+    "type2": ""
+  },
+  {
+    "nationalNo": 671,
+    "name": "Florges",
+    "nameCN": "花洁夫人",
+    "type1": "Fairy",
+    "type2": ""
+  },
+  {
+    "nationalNo": 672,
+    "name": "Skiddo",
+    "nameCN": "坐骑小羊",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 673,
+    "name": "Gogoat",
+    "nameCN": "坐骑山羊",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 674,
+    "name": "Pancham",
+    "nameCN": "顽皮熊猫",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 675,
+    "name": "Pangoro",
+    "nameCN": "流氓熊猫",
+    "type1": "Fighting",
+    "type2": "Dark"
+  },
+  {
+    "nationalNo": 676,
+    "name": "Furfrou",
+    "nameCN": "多丽米亚",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 677,
+    "name": "Espurr",
+    "nameCN": "妙喵",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 678,
+    "name": "Meowstic",
+    "nameCN": "超能妙喵",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 679,
+    "name": "Honedge",
+    "nameCN": "独剑鞘",
+    "type1": "Steel",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 680,
+    "name": "Doublade",
+    "nameCN": "双剑鞘",
+    "type1": "Steel",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 681,
+    "name": "Aegislash",
+    "nameCN": "坚盾剑怪",
+    "type1": "Steel",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 682,
+    "name": "Spritzee",
+    "nameCN": "粉香香",
+    "type1": "Fairy",
+    "type2": ""
+  },
+  {
+    "nationalNo": 683,
+    "name": "Aromatisse",
+    "nameCN": "芳香精",
+    "type1": "Fairy",
+    "type2": ""
+  },
+  {
+    "nationalNo": 684,
+    "name": "Swirlix",
+    "nameCN": "绵绵泡芙",
+    "type1": "Fairy",
+    "type2": ""
+  },
+  {
+    "nationalNo": 685,
+    "name": "Slurpuff",
+    "nameCN": "胖甜妮",
+    "type1": "Fairy",
+    "type2": ""
+  },
+  {
+    "nationalNo": 686,
+    "name": "Inkay",
+    "nameCN": "好啦鱿",
+    "type1": "Dark",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 687,
+    "name": "Malamar",
+    "nameCN": "乌贼王",
+    "type1": "Dark",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 688,
+    "name": "Binacle",
+    "nameCN": "龟脚脚",
+    "type1": "Rock",
+    "type2": "Water"
+  },
+  {
+    "nationalNo": 689,
+    "name": "Barbaracle",
+    "nameCN": "龟足巨铠",
+    "type1": "Rock",
+    "type2": "Water"
+  },
+  {
+    "nationalNo": 690,
+    "name": "Skrelp",
+    "nameCN": "垃垃藻",
+    "type1": "Poison",
+    "type2": "Water"
+  },
+  {
+    "nationalNo": 691,
+    "name": "Dragalge",
+    "nameCN": "毒藻龙",
+    "type1": "Poison",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 692,
+    "name": "Clauncher",
+    "nameCN": "铁臂枪虾",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 693,
+    "name": "Clawitzer",
+    "nameCN": "钢炮臂虾",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 694,
+    "name": "Helioptile",
+    "nameCN": "伞电蜥",
+    "type1": "Electric",
+    "type2": "Normal"
+  },
+  {
+    "nationalNo": 695,
+    "name": "Heliolisk",
+    "nameCN": "光电伞蜥",
+    "type1": "Electric",
+    "type2": "Normal"
+  },
+  {
+    "nationalNo": 696,
+    "name": "Tyrunt",
+    "nameCN": "宝宝暴龙",
+    "type1": "Rock",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 697,
+    "name": "Tyrantrum",
+    "nameCN": "怪颚龙",
+    "type1": "Rock",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 698,
+    "name": "Amaura",
+    "nameCN": "冰雪龙",
+    "type1": "Rock",
+    "type2": "Ice"
+  },
+  {
+    "nationalNo": 699,
+    "name": "Aurorus",
+    "nameCN": "冰雪巨龙",
+    "type1": "Rock",
+    "type2": "Ice"
+  },
+  {
+    "nationalNo": 700,
+    "name": "Sylveon",
+    "nameCN": "仙子伊布",
+    "type1": "Fairy",
+    "type2": ""
+  },
+  {
+    "nationalNo": 701,
+    "name": "Hawlucha",
+    "nameCN": "摔角鹰人",
+    "type1": "Fighting",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 702,
+    "name": "Dedenne",
+    "nameCN": "咚咚鼠",
+    "type1": "Electric",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 703,
+    "name": "Carbink",
+    "nameCN": "小碎钻",
+    "type1": "Rock",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 704,
+    "name": "Goomy",
+    "nameCN": "黏黏宝",
+    "type1": "Dragon",
+    "type2": ""
+  },
+  {
+    "nationalNo": 705,
+    "name": "Sliggoo",
+    "nameCN": "黏美儿",
+    "type1": "Dragon",
+    "type2": ""
+  },
+  {
+    "nationalNo": 706,
+    "name": "Goodra",
+    "nameCN": "黏美龙",
+    "type1": "Dragon",
+    "type2": ""
+  },
+  {
+    "nationalNo": 707,
+    "name": "Klefki",
+    "nameCN": "钥圈儿",
+    "type1": "Steel",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 708,
+    "name": "Phantump",
+    "nameCN": "小木灵",
+    "type1": "Ghost",
+    "type2": "Grass"
+  },
+  {
+    "nationalNo": 709,
+    "name": "Trevenant",
+    "nameCN": "朽木妖",
+    "type1": "Ghost",
+    "type2": "Grass"
+  },
+  {
+    "nationalNo": 710,
+    "name": "Pumpkaboo",
+    "nameCN": "南瓜精",
+    "type1": "Ghost",
+    "type2": "Grass"
+  },
+  {
+    "nationalNo": 711,
+    "name": "Gourgeist",
+    "nameCN": "南瓜怪人",
+    "type1": "Ghost",
+    "type2": "Grass"
+  },
+  {
+    "nationalNo": 712,
+    "name": "Bergmite",
+    "nameCN": "冰宝",
+    "type1": "Ice",
+    "type2": ""
+  },
+  {
+    "nationalNo": 713,
+    "name": "Avalugg",
+    "nameCN": "冰岩怪",
+    "type1": "Ice",
+    "type2": ""
+  },
+  {
+    "nationalNo": 714,
+    "name": "Noibat",
+    "nameCN": "嗡蝠",
+    "type1": "Flying",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 715,
+    "name": "Noivern",
+    "nameCN": "音波龙",
+    "type1": "Flying",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 716,
+    "name": "Xerneas",
+    "nameCN": "哲尔尼亚斯",
+    "type1": "Fairy",
+    "type2": ""
+  },
+  {
+    "nationalNo": 717,
+    "name": "Yveltal",
+    "nameCN": "伊裴尔塔尔",
+    "type1": "Dark",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 718,
+    "name": "Zygarde",
+    "nameCN": "基格尔德",
+    "type1": "Dragon",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 719,
+    "name": "Diancie",
+    "nameCN": "蒂安希",
+    "type1": "Rock",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 720,
+    "name": "Hoopa",
+    "nameCN": "胡帕",
+    "type1": "Psychic",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 721,
+    "name": "Volcanion",
+    "nameCN": "波尔凯尼恩",
+    "type1": "Fire",
+    "type2": "Water"
+  },
+  {
+    "nationalNo": 722,
+    "name": "Rowlet",
+    "nameCN": "木木枭",
+    "type1": "Grass",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 723,
+    "name": "Dartrix",
+    "nameCN": "投羽枭",
+    "type1": "Grass",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 724,
+    "name": "Decidueye",
+    "nameCN": "狙射树枭",
+    "type1": "Grass",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 725,
+    "name": "Litten",
+    "nameCN": "火斑喵",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 726,
+    "name": "Torracat",
+    "nameCN": "炎热喵",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 727,
+    "name": "Incineroar",
+    "nameCN": "炽焰咆哮虎",
+    "type1": "Fire",
+    "type2": "Dark"
+  },
+  {
+    "nationalNo": 728,
+    "name": "Popplio",
+    "nameCN": "球球海狮",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 729,
+    "name": "Brionne",
+    "nameCN": "花漾海狮",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 730,
+    "name": "Primarina",
+    "nameCN": "西狮海壬",
+    "type1": "Water",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 731,
+    "name": "Pikipek",
+    "nameCN": "小笃儿",
+    "type1": "Normal",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 732,
+    "name": "Trumbeak",
+    "nameCN": "喇叭啄鸟",
+    "type1": "Normal",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 733,
+    "name": "Toucannon",
+    "nameCN": "铳嘴大鸟",
+    "type1": "Normal",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 734,
+    "name": "Yungoos",
+    "nameCN": "猫鼬少",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 735,
+    "name": "Gumshoos",
+    "nameCN": "猫鼬探长",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 736,
+    "name": "Grubbin",
+    "nameCN": "强颚鸡母虫",
+    "type1": "Bug",
+    "type2": ""
+  },
+  {
+    "nationalNo": 737,
+    "name": "Charjabug",
+    "nameCN": "虫电宝",
+    "type1": "Bug",
+    "type2": "Electric"
+  },
+  {
+    "nationalNo": 738,
+    "name": "Vikavolt",
+    "nameCN": "锹农炮虫",
+    "type1": "Bug",
+    "type2": "Electric"
+  },
+  {
+    "nationalNo": 739,
+    "name": "Crabrawler",
+    "nameCN": "好胜蟹",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 740,
+    "name": "Crabominable",
+    "nameCN": "好胜毛蟹",
+    "type1": "Fighting",
+    "type2": "Ice"
+  },
+  {
+    "nationalNo": 741,
+    "name": "Oricorio",
+    "nameCN": "花舞鸟",
+    "type1": "Fire",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 742,
+    "name": "Cutiefly",
+    "nameCN": "萌虻",
+    "type1": "Bug",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 743,
+    "name": "Ribombee",
+    "nameCN": "蝶结萌虻",
+    "type1": "Bug",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 744,
+    "name": "Rockruff",
+    "nameCN": "岩狗狗",
+    "type1": "Rock",
+    "type2": ""
+  },
+  {
+    "nationalNo": 745,
+    "name": "Lycanroc",
+    "nameCN": "鬃岩狼人",
+    "type1": "Rock",
+    "type2": ""
+  },
+  {
+    "nationalNo": 746,
+    "name": "Wishiwashi",
+    "nameCN": "弱丁鱼",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 747,
+    "name": "Mareanie",
+    "nameCN": "好坏星",
+    "type1": "Poison",
+    "type2": "Water"
+  },
+  {
+    "nationalNo": 748,
+    "name": "Toxapex",
+    "nameCN": "超坏星",
+    "type1": "Poison",
+    "type2": "Water"
+  },
+  {
+    "nationalNo": 749,
+    "name": "Mudbray",
+    "nameCN": "泥驴仔",
+    "type1": "Ground",
+    "type2": ""
+  },
+  {
+    "nationalNo": 750,
+    "name": "Mudsdale",
+    "nameCN": "重泥挽马",
+    "type1": "Ground",
+    "type2": ""
+  },
+  {
+    "nationalNo": 751,
+    "name": "Dewpider",
+    "nameCN": "滴蛛",
+    "type1": "Water",
+    "type2": "Bug"
+  },
+  {
+    "nationalNo": 752,
+    "name": "Araquanid",
+    "nameCN": "滴蛛霸",
+    "type1": "Water",
+    "type2": "Bug"
+  },
+  {
+    "nationalNo": 753,
+    "name": "Fomantis",
+    "nameCN": "伪螳草",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 754,
+    "name": "Lurantis",
+    "nameCN": "兰螳花",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 755,
+    "name": "Morelull",
+    "nameCN": "睡睡菇",
+    "type1": "Grass",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 756,
+    "name": "Shiinotic",
+    "nameCN": "灯罩夜菇",
+    "type1": "Grass",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 757,
+    "name": "Salandit",
+    "nameCN": "夜盗火蜥",
+    "type1": "Poison",
+    "type2": "Fire"
+  },
+  {
+    "nationalNo": 758,
+    "name": "Salazzle",
+    "nameCN": "焰后蜥",
+    "type1": "Poison",
+    "type2": "Fire"
+  },
+  {
+    "nationalNo": 759,
+    "name": "Stufful",
+    "nameCN": "童偶熊",
+    "type1": "Normal",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 760,
+    "name": "Bewear",
+    "nameCN": "穿着熊",
+    "type1": "Normal",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 761,
+    "name": "Bounsweet",
+    "nameCN": "甜竹竹",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 762,
+    "name": "Steenee",
+    "nameCN": "甜舞妮",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 763,
+    "name": "Tsareena",
+    "nameCN": "甜冷美后",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 764,
+    "name": "Comfey",
+    "nameCN": "花疗环环",
+    "type1": "Fairy",
+    "type2": ""
+  },
+  {
+    "nationalNo": 765,
+    "name": "Oranguru",
+    "nameCN": "智挥猩",
+    "type1": "Normal",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 766,
+    "name": "Passimian",
+    "nameCN": "投掷猴",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 767,
+    "name": "Wimpod",
+    "nameCN": "胆小虫",
+    "type1": "Bug",
+    "type2": "Water"
+  },
+  {
+    "nationalNo": 768,
+    "name": "Golisopod",
+    "nameCN": "具甲武者",
+    "type1": "Bug",
+    "type2": "Water"
+  },
+  {
+    "nationalNo": 769,
+    "name": "Sandygast",
+    "nameCN": "沙丘娃",
+    "type1": "Ghost",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 770,
+    "name": "Palossand",
+    "nameCN": "噬沙堡爷",
+    "type1": "Ghost",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 771,
+    "name": "Pyukumuku",
+    "nameCN": "拳海参",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 772,
+    "name": "Type: Null",
+    "nameCN": "属性：空",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 773,
+    "name": "Silvally",
+    "nameCN": "银伴战兽",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 774,
+    "name": "Minior",
+    "nameCN": "小陨星",
+    "type1": "Rock",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 775,
+    "name": "Komala",
+    "nameCN": "树枕尾熊",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 776,
+    "name": "Turtonator",
+    "nameCN": "爆焰龟兽",
+    "type1": "Fire",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 777,
+    "name": "Togedemaru",
+    "nameCN": "托戈德玛尔",
+    "type1": "Electric",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 778,
+    "name": "Mimikyu",
+    "nameCN": "谜拟Ｑ",
+    "type1": "Ghost",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 779,
+    "name": "Bruxish",
+    "nameCN": "磨牙彩皮鱼",
+    "type1": "Water",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 780,
+    "name": "Drampa",
+    "nameCN": "老翁龙",
+    "type1": "Normal",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 781,
+    "name": "Dhelmise",
+    "nameCN": "破破舵轮",
+    "type1": "Ghost",
+    "type2": "Grass"
+  },
+  {
+    "nationalNo": 782,
+    "name": "Jangmo-o",
+    "nameCN": "心鳞宝",
+    "type1": "Dragon",
+    "type2": ""
+  },
+  {
+    "nationalNo": 783,
+    "name": "Hakamo-o",
+    "nameCN": "鳞甲龙",
+    "type1": "Dragon",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 784,
+    "name": "Kommo-o",
+    "nameCN": "杖尾鳞甲龙",
+    "type1": "Dragon",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 785,
+    "name": "Tapu Koko",
+    "nameCN": "卡璞・鸣鸣",
+    "type1": "Electric",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 786,
+    "name": "Tapu Lele",
+    "nameCN": "卡璞・蝶蝶",
+    "type1": "Psychic",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 787,
+    "name": "Tapu Bulu",
+    "nameCN": "卡璞・哞哞",
+    "type1": "Grass",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 788,
+    "name": "Tapu Fini",
+    "nameCN": "卡璞・鳍鳍",
+    "type1": "Water",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 789,
+    "name": "Cosmog",
+    "nameCN": "科斯莫古",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 790,
+    "name": "Cosmoem",
+    "nameCN": "科斯莫姆",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 791,
+    "name": "Solgaleo",
+    "nameCN": "索尔迦雷欧",
+    "type1": "Psychic",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 792,
+    "name": "Lunala",
+    "nameCN": "露奈雅拉",
+    "type1": "Psychic",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 793,
+    "name": "Nihilego",
+    "nameCN": "虚吾伊德",
+    "type1": "Rock",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 794,
+    "name": "Buzzwole",
+    "nameCN": "爆肌蚊",
+    "type1": "Bug",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 795,
+    "name": "Pheromosa",
+    "nameCN": "费洛美螂",
+    "type1": "Bug",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 796,
+    "name": "Xurkitree",
+    "nameCN": "电束木",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 797,
+    "name": "Celesteela",
+    "nameCN": "铁火辉夜",
+    "type1": "Steel",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 798,
+    "name": "Kartana",
+    "nameCN": "纸御剑",
+    "type1": "Grass",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 799,
+    "name": "Guzzlord",
+    "nameCN": "恶食大王",
+    "type1": "Dark",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 800,
+    "name": "Necrozma",
+    "nameCN": "奈克洛兹玛",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 801,
+    "name": "Magearna",
+    "nameCN": "玛机雅娜",
+    "type1": "Steel",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 802,
+    "name": "Marshadow",
+    "nameCN": "玛夏多",
+    "type1": "Fighting",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 803,
+    "name": "Poipole",
+    "nameCN": "毒贝比",
+    "type1": "Poison",
+    "type2": ""
+  },
+  {
+    "nationalNo": 804,
+    "name": "Naganadel",
+    "nameCN": "四颚针龙",
+    "type1": "Poison",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 805,
+    "name": "Stakataka",
+    "nameCN": "垒磊石",
+    "type1": "Rock",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 806,
+    "name": "Blacephalon",
+    "nameCN": "砰头小丑",
+    "type1": "Fire",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 807,
+    "name": "Zeraora",
+    "nameCN": "捷拉奥拉",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 808,
+    "name": "Meltan",
+    "nameCN": "美录坦",
+    "type1": "Steel",
+    "type2": ""
+  },
+  {
+    "nationalNo": 809,
+    "name": "Melmetal",
+    "nameCN": "美录梅塔",
+    "type1": "Steel",
+    "type2": ""
+  },
+  {
+    "nationalNo": 810,
+    "name": "Grookey",
+    "nameCN": "敲音猴",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 811,
+    "name": "Thwackey",
+    "nameCN": "啪咚猴",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 812,
+    "name": "Rillaboom",
+    "nameCN": "轰擂金刚猩",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 813,
+    "name": "Scorbunny",
+    "nameCN": "炎兔儿",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 814,
+    "name": "Raboot",
+    "nameCN": "腾蹴小将",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 815,
+    "name": "Cinderace",
+    "nameCN": "闪焰王牌",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 816,
+    "name": "Sobble",
+    "nameCN": "泪眼蜥",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 817,
+    "name": "Drizzile",
+    "nameCN": "变涩蜥",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 818,
+    "name": "Inteleon",
+    "nameCN": "千面避役",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 819,
+    "name": "Skwovet",
+    "nameCN": "贪心栗鼠",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 820,
+    "name": "Greedent",
+    "nameCN": "藏饱栗鼠",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 821,
+    "name": "Rookidee",
+    "nameCN": "稚山雀",
+    "type1": "Flying",
+    "type2": ""
+  },
+  {
+    "nationalNo": 822,
+    "name": "Corvisquire",
+    "nameCN": "蓝鸦",
+    "type1": "Flying",
+    "type2": ""
+  },
+  {
+    "nationalNo": 823,
+    "name": "Corviknight",
+    "nameCN": "钢铠鸦",
+    "type1": "Flying",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 824,
+    "name": "Blipbug",
+    "nameCN": "索侦虫",
+    "type1": "Bug",
+    "type2": ""
+  },
+  {
+    "nationalNo": 825,
+    "name": "Dottler",
+    "nameCN": "天罩虫",
+    "type1": "Bug",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 826,
+    "name": "Orbeetle",
+    "nameCN": "以欧路普",
+    "type1": "Bug",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 827,
+    "name": "Nickit",
+    "nameCN": "偷儿狐",
+    "type1": "Dark",
+    "type2": ""
+  },
+  {
+    "nationalNo": 828,
+    "name": "Thievul",
+    "nameCN": "狐大盗",
+    "type1": "Dark",
+    "type2": ""
+  },
+  {
+    "nationalNo": 829,
+    "name": "Gossifleur",
+    "nameCN": "幼棉棉",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 830,
+    "name": "Eldegoss",
+    "nameCN": "白蓬蓬",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 831,
+    "name": "Wooloo",
+    "nameCN": "毛辫羊",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 832,
+    "name": "Dubwool",
+    "nameCN": "毛毛角羊",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 833,
+    "name": "Chewtle",
+    "nameCN": "咬咬龟",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 834,
+    "name": "Drednaw",
+    "nameCN": "暴噬龟",
+    "type1": "Water",
+    "type2": "Rock"
+  },
+  {
+    "nationalNo": 835,
+    "name": "Yamper",
+    "nameCN": "来电汪",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 836,
+    "name": "Boltund",
+    "nameCN": "逐电犬",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 837,
+    "name": "Rolycoly",
+    "nameCN": "小炭仔",
+    "type1": "Rock",
+    "type2": ""
+  },
+  {
+    "nationalNo": 838,
+    "name": "Carkol",
+    "nameCN": "大炭车",
+    "type1": "Rock",
+    "type2": "Fire"
+  },
+  {
+    "nationalNo": 839,
+    "name": "Coalossal",
+    "nameCN": "巨炭山",
+    "type1": "Rock",
+    "type2": "Fire"
+  },
+  {
+    "nationalNo": 840,
+    "name": "Applin",
+    "nameCN": "啃果虫",
+    "type1": "Grass",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 841,
+    "name": "Flapple",
+    "nameCN": "苹裹龙",
+    "type1": "Grass",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 842,
+    "name": "Appletun",
+    "nameCN": "丰蜜龙",
+    "type1": "Grass",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 843,
+    "name": "Silicobra",
+    "nameCN": "沙包蛇",
+    "type1": "Ground",
+    "type2": ""
+  },
+  {
+    "nationalNo": 844,
+    "name": "Sandaconda",
+    "nameCN": "沙螺蟒",
+    "type1": "Ground",
+    "type2": ""
+  },
+  {
+    "nationalNo": 845,
+    "name": "Cramorant",
+    "nameCN": "古月鸟",
+    "type1": "Flying",
+    "type2": "Water"
+  },
+  {
+    "nationalNo": 846,
+    "name": "Arrokuda",
+    "nameCN": "刺梭鱼",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 847,
+    "name": "Barraskewda",
+    "nameCN": "戽斗尖梭",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 848,
+    "name": "Toxel",
+    "nameCN": "毒电婴",
+    "type1": "Electric",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 849,
+    "name": "Toxtricity",
+    "nameCN": "毒电兔",
+    "type1": "Electric",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 850,
+    "name": "Sizzlipede",
+    "nameCN": "烧火蚣",
+    "type1": "Fire",
+    "type2": "Bug"
+  },
+  {
+    "nationalNo": 851,
+    "name": "Centiskorch",
+    "nameCN": "焚焰蚣",
+    "type1": "Fire",
+    "type2": "Bug"
+  },
+  {
+    "nationalNo": 852,
+    "name": "Clobbopus",
+    "nameCN": "拳拳蛸",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 853,
+    "name": "Grapploct",
+    "nameCN": "八爪武师",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 854,
+    "name": "Sinistea",
+    "nameCN": "来悲茶",
+    "type1": "Ghost",
+    "type2": ""
+  },
+  {
+    "nationalNo": 855,
+    "name": "Polteageist",
+    "nameCN": "怖思壶",
+    "type1": "Ghost",
+    "type2": ""
+  },
+  {
+    "nationalNo": 856,
+    "name": "Hatenna",
+    "nameCN": "迷布莉姆",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 857,
+    "name": "Hattrem",
+    "nameCN": "提布莉姆",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 858,
+    "name": "Hatterene",
+    "nameCN": "布莉姆温",
+    "type1": "Psychic",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 859,
+    "name": "Impidimp",
+    "nameCN": "捣蛋小妖",
+    "type1": "Dark",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 860,
+    "name": "Morgrem",
+    "nameCN": "诈唬魔",
+    "type1": "Dark",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 861,
+    "name": "Grimmsnarl",
+    "nameCN": "长毛巨魔",
+    "type1": "Dark",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 862,
+    "name": "Obstagoon",
+    "nameCN": "堵拦熊",
+    "type1": "Dark",
+    "type2": "Normal"
+  },
+  {
+    "nationalNo": 863,
+    "name": "Perrserker",
+    "nameCN": "喵头目",
+    "type1": "Steel",
+    "type2": ""
+  },
+  {
+    "nationalNo": 864,
+    "name": "Cursola",
+    "nameCN": "魔灵珊瑚",
+    "type1": "Ghost",
+    "type2": ""
+  },
+  {
+    "nationalNo": 865,
+    "name": "Sirfetch'd",
+    "nameCN": "葱游兵",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 866,
+    "name": "Mr. Rime",
+    "nameCN": "踏冰人偶",
+    "type1": "Ice",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 867,
+    "name": "Runerigus",
+    "nameCN": "死神板",
+    "type1": "Ground",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 868,
+    "name": "Milcery",
+    "nameCN": "小仙奶",
+    "type1": "Fairy",
+    "type2": ""
+  },
+  {
+    "nationalNo": 869,
+    "name": "Alcremie",
+    "nameCN": "霜奶仙",
+    "type1": "Fairy",
+    "type2": ""
+  },
+  {
+    "nationalNo": 870,
+    "name": "Falinks",
+    "nameCN": "列阵兵",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 871,
+    "name": "Pincurchin",
+    "nameCN": "啪嚓海胆",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 872,
+    "name": "Snom",
+    "nameCN": "雪吞虫",
+    "type1": "Ice",
+    "type2": "Bug"
+  },
+  {
+    "nationalNo": 873,
+    "name": "Frosmoth",
+    "nameCN": "雪绒蛾",
+    "type1": "Ice",
+    "type2": "Bug"
+  },
+  {
+    "nationalNo": 874,
+    "name": "Stonjourner",
+    "nameCN": "巨石丁",
+    "type1": "Rock",
+    "type2": ""
+  },
+  {
+    "nationalNo": 875,
+    "name": "Eiscue",
+    "nameCN": "冰砌鹅",
+    "type1": "Ice",
+    "type2": ""
+  },
+  {
+    "nationalNo": 876,
+    "name": "Indeedee",
+    "nameCN": "爱管侍",
+    "type1": "Psychic",
+    "type2": "Normal"
+  },
+  {
+    "nationalNo": 877,
+    "name": "Morpeko",
+    "nameCN": "莫鲁贝可",
+    "type1": "Electric",
+    "type2": "Dark"
+  },
+  {
+    "nationalNo": 878,
+    "name": "Cufant",
+    "nameCN": "铜象",
+    "type1": "Steel",
+    "type2": ""
+  },
+  {
+    "nationalNo": 879,
+    "name": "Copperajah",
+    "nameCN": "大王铜象",
+    "type1": "Steel",
+    "type2": ""
+  },
+  {
+    "nationalNo": 880,
+    "name": "Dracozolt",
+    "nameCN": "雷鸟龙",
+    "type1": "Electric",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 881,
+    "name": "Arctozolt",
+    "nameCN": "雷鸟海兽",
+    "type1": "Electric",
+    "type2": "Ice"
+  },
+  {
+    "nationalNo": 882,
+    "name": "Dracovish",
+    "nameCN": "鳃鱼龙",
+    "type1": "Water",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 883,
+    "name": "Arctovish",
+    "nameCN": "鳃鱼海兽",
+    "type1": "Water",
+    "type2": "Ice"
+  },
+  {
+    "nationalNo": 884,
+    "name": "Duraludon",
+    "nameCN": "铝钢龙",
+    "type1": "Steel",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 885,
+    "name": "Dreepy",
+    "nameCN": "多龙梅西亚",
+    "type1": "Dragon",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 886,
+    "name": "Drakloak",
+    "nameCN": "多龙奇",
+    "type1": "Dragon",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 887,
+    "name": "Dragapult",
+    "nameCN": "多龙巴鲁托",
+    "type1": "Dragon",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 888,
+    "name": "Zacian",
+    "nameCN": "苍响",
+    "type1": "Fairy",
+    "type2": ""
+  },
+  {
+    "nationalNo": 889,
+    "name": "Zamazenta",
+    "nameCN": "藏玛然特",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 890,
+    "name": "Eternatus",
+    "nameCN": "无极汰那",
+    "type1": "Poison",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 891,
+    "name": "Kubfu",
+    "nameCN": "熊徒弟",
+    "type1": "Fighting",
+    "type2": ""
+  },
+  {
+    "nationalNo": 892,
+    "name": "Urshifu",
+    "nameCN": "武道熊师",
+    "type1": "Fighting",
+    "type2": "Dark"
+  },
+  {
+    "nationalNo": 893,
+    "name": "Zarude",
+    "nameCN": "萨戮德",
+    "type1": "Dark",
+    "type2": "Grass"
+  },
+  {
+    "nationalNo": 894,
+    "name": "Regieleki",
+    "nameCN": "雷吉艾勒奇",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 895,
+    "name": "Regidrago",
+    "nameCN": "雷吉铎拉戈",
+    "type1": "Dragon",
+    "type2": ""
+  },
+  {
+    "nationalNo": 896,
+    "name": "Glastrier",
+    "nameCN": "雪暴马",
+    "type1": "Ice",
+    "type2": ""
+  },
+  {
+    "nationalNo": 897,
+    "name": "Spectrier",
+    "nameCN": "幽灵马",
+    "type1": "Ghost",
+    "type2": ""
+  },
+  {
+    "nationalNo": 898,
+    "name": "Calyrex",
+    "nameCN": "蕾冠王",
+    "type1": "Psychic",
+    "type2": "Grass"
+  },
+  {
+    "nationalNo": 899,
+    "name": "Wyrdeer",
+    "nameCN": "诡角鹿",
+    "type1": "Normal",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 900,
+    "name": "Kleavor",
+    "nameCN": "劈斧螳螂",
+    "type1": "Bug",
+    "type2": "Rock"
+  },
+  {
+    "nationalNo": 901,
+    "name": "Ursaluna",
+    "nameCN": "月月熊",
+    "type1": "Ground",
+    "type2": "Normal"
+  },
+  {
+    "nationalNo": 902,
+    "name": "Basculegion",
+    "nameCN": "幽尾玄鱼",
+    "type1": "Water",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 903,
+    "name": "Sneasler",
+    "nameCN": "大狃拉",
+    "type1": "Fighting",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 904,
+    "name": "Overqwil",
+    "nameCN": "万针鱼",
+    "type1": "Dark",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 905,
+    "name": "Enamorus",
+    "nameCN": "眷恋云",
+    "type1": "Fairy",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 906,
+    "name": "Sprigatito",
+    "nameCN": "新叶喵",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 907,
+    "name": "Floragato",
+    "nameCN": "蒂蕾喵",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 908,
+    "name": "Meowscarada",
+    "nameCN": "魔幻假面喵",
+    "type1": "Grass",
+    "type2": "Dark"
+  },
+  {
+    "nationalNo": 909,
+    "name": "Fuecoco",
+    "nameCN": "呆火鳄",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 910,
+    "name": "Crocalor",
+    "nameCN": "炙烫鳄",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 911,
+    "name": "Skeledirge",
+    "nameCN": "骨纹巨声鳄",
+    "type1": "Fire",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 912,
+    "name": "Quaxly",
+    "nameCN": "润水鸭",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 913,
+    "name": "Quaxwell",
+    "nameCN": "涌跃鸭",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 914,
+    "name": "Quaquaval",
+    "nameCN": "狂欢浪舞鸭",
+    "type1": "Water",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 915,
+    "name": "Lechonk",
+    "nameCN": "爱吃豚",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 916,
+    "name": "Oinkologne",
+    "nameCN": "飘香豚",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 917,
+    "name": "Tarountula",
+    "nameCN": "团珠蛛",
+    "type1": "Bug",
+    "type2": ""
+  },
+  {
+    "nationalNo": 918,
+    "name": "Spidops",
+    "nameCN": "操陷蛛",
+    "type1": "Bug",
+    "type2": ""
+  },
+  {
+    "nationalNo": 919,
+    "name": "Nymble",
+    "nameCN": "豆蟋蟀",
+    "type1": "Bug",
+    "type2": ""
+  },
+  {
+    "nationalNo": 920,
+    "name": "Lokix",
+    "nameCN": "烈腿蝗",
+    "type1": "Bug",
+    "type2": "Dark"
+  },
+  {
+    "nationalNo": 921,
+    "name": "Pawmi",
+    "nameCN": "布拨",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 922,
+    "name": "Pawmo",
+    "nameCN": "布土拨",
+    "type1": "Electric",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 923,
+    "name": "Pawmot",
+    "nameCN": "巴布土拨",
+    "type1": "Electric",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 924,
+    "name": "Tandemaus",
+    "nameCN": "一对鼠",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 925,
+    "name": "Maushold",
+    "nameCN": "一家鼠",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 926,
+    "name": "Fidough",
+    "nameCN": "狗仔包",
+    "type1": "Fairy",
+    "type2": ""
+  },
+  {
+    "nationalNo": 927,
+    "name": "Dachsbun",
+    "nameCN": "麻花犬",
+    "type1": "Fairy",
+    "type2": ""
+  },
+  {
+    "nationalNo": 928,
+    "name": "Smoliv",
+    "nameCN": "迷你芙",
+    "type1": "Grass",
+    "type2": "Normal"
+  },
+  {
+    "nationalNo": 929,
+    "name": "Dolliv",
+    "nameCN": "奥利纽",
+    "type1": "Grass",
+    "type2": "Normal"
+  },
+  {
+    "nationalNo": 930,
+    "name": "Arboliva",
+    "nameCN": "奥利瓦",
+    "type1": "Grass",
+    "type2": "Normal"
+  },
+  {
+    "nationalNo": 931,
+    "name": "Squawkabilly",
+    "nameCN": "怒鹦哥",
+    "type1": "Normal",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 932,
+    "name": "Nacli",
+    "nameCN": "盐石宝",
+    "type1": "Rock",
+    "type2": ""
+  },
+  {
+    "nationalNo": 933,
+    "name": "Naclstack",
+    "nameCN": "盐石垒",
+    "type1": "Rock",
+    "type2": ""
+  },
+  {
+    "nationalNo": 934,
+    "name": "Garganacl",
+    "nameCN": "盐石巨灵",
+    "type1": "Rock",
+    "type2": ""
+  },
+  {
+    "nationalNo": 935,
+    "name": "Charcadet",
+    "nameCN": "炭小侍",
+    "type1": "Fire",
+    "type2": ""
+  },
+  {
+    "nationalNo": 936,
+    "name": "Armarouge",
+    "nameCN": "红莲铠骑",
+    "type1": "Fire",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 937,
+    "name": "Ceruledge",
+    "nameCN": "苍炎刃鬼",
+    "type1": "Fire",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 938,
+    "name": "Tadbulb",
+    "nameCN": "光蚪仔",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 939,
+    "name": "Bellibolt",
+    "nameCN": "电肚蛙",
+    "type1": "Electric",
+    "type2": ""
+  },
+  {
+    "nationalNo": 940,
+    "name": "Wattrel",
+    "nameCN": "电海燕",
+    "type1": "Electric",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 941,
+    "name": "Kilowattrel",
+    "nameCN": "大电海燕",
+    "type1": "Electric",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 942,
+    "name": "Maschiff",
+    "nameCN": "獒教父",
+    "type1": "Dark",
+    "type2": ""
+  },
+  {
+    "nationalNo": 943,
+    "name": "Mabosstiff",
+    "nameCN": "獒教父",
+    "type1": "Dark",
+    "type2": ""
+  },
+  {
+    "nationalNo": 944,
+    "name": "Shroodle",
+    "nameCN": "滋汁鼹",
+    "type1": "Poison",
+    "type2": "Normal"
+  },
+  {
+    "nationalNo": 945,
+    "name": "Grafaiai",
+    "nameCN": "涂标客",
+    "type1": "Poison",
+    "type2": "Normal"
+  },
+  {
+    "nationalNo": 946,
+    "name": "Bramblin",
+    "nameCN": "纳噬草",
+    "type1": "Grass",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 947,
+    "name": "Brambleghast",
+    "nameCN": "怖纳噬草",
+    "type1": "Grass",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 948,
+    "name": "Toedscool",
+    "nameCN": "原野水母",
+    "type1": "Ground",
+    "type2": "Grass"
+  },
+  {
+    "nationalNo": 949,
+    "name": "Toedscruel",
+    "nameCN": "陆地水母",
+    "type1": "Ground",
+    "type2": "Grass"
+  },
+  {
+    "nationalNo": 950,
+    "name": "Klawf",
+    "nameCN": "毛崖蟹",
+    "type1": "Rock",
+    "type2": ""
+  },
+  {
+    "nationalNo": 951,
+    "name": "Capsakid",
+    "nameCN": "热辣娃",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 952,
+    "name": "Scovillain",
+    "nameCN": "狠辣椒",
+    "type1": "Grass",
+    "type2": "Fire"
+  },
+  {
+    "nationalNo": 953,
+    "name": "Rellor",
+    "nameCN": "虫滚泥",
+    "type1": "Bug",
+    "type2": ""
+  },
+  {
+    "nationalNo": 954,
+    "name": "Rabsca",
+    "nameCN": "虫甲圣",
+    "type1": "Bug",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 955,
+    "name": "Flittle",
+    "nameCN": "飘飘雏",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 956,
+    "name": "Espathra",
+    "nameCN": "超能艳鸵",
+    "type1": "Psychic",
+    "type2": ""
+  },
+  {
+    "nationalNo": 957,
+    "name": "Tinkatink",
+    "nameCN": "小锻匠",
+    "type1": "Fairy",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 958,
+    "name": "Tinkatuff",
+    "nameCN": "巧锻匠",
+    "type1": "Fairy",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 959,
+    "name": "Tinkaton",
+    "nameCN": "巨锻匠",
+    "type1": "Fairy",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 960,
+    "name": "Wiglett",
+    "nameCN": "海地鼠",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 961,
+    "name": "Wugtrio",
+    "nameCN": "三海地鼠",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 962,
+    "name": "Bombirdier",
+    "nameCN": "下石鸟",
+    "type1": "Flying",
+    "type2": "Dark"
+  },
+  {
+    "nationalNo": 963,
+    "name": "Finizen",
+    "nameCN": "波普海豚",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 964,
+    "name": "Palafin",
+    "nameCN": "海豚侠",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 965,
+    "name": "Varoom",
+    "nameCN": "噗隆隆",
+    "type1": "Steel",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 966,
+    "name": "Revavroom",
+    "nameCN": "普隆隆姆",
+    "type1": "Steel",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 967,
+    "name": "Cyclizar",
+    "nameCN": "摩托蜥",
+    "type1": "Dragon",
+    "type2": "Normal"
+  },
+  {
+    "nationalNo": 968,
+    "name": "Orthworm",
+    "nameCN": "拖拖蚓",
+    "type1": "Steel",
+    "type2": ""
+  },
+  {
+    "nationalNo": 969,
+    "name": "Glimmet",
+    "nameCN": "晶光芽",
+    "type1": "Rock",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 970,
+    "name": "Glimmora",
+    "nameCN": "晶光花",
+    "type1": "Rock",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 971,
+    "name": "Greavard",
+    "nameCN": "墓仔狗",
+    "type1": "Ghost",
+    "type2": ""
+  },
+  {
+    "nationalNo": 972,
+    "name": "Houndstone",
+    "nameCN": "墓扬犬",
+    "type1": "Ghost",
+    "type2": ""
+  },
+  {
+    "nationalNo": 973,
+    "name": "Flamigo",
+    "nameCN": "缠红鹤",
+    "type1": "Flying",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 974,
+    "name": "Cetoddle",
+    "nameCN": "走鲸",
+    "type1": "Ice",
+    "type2": ""
+  },
+  {
+    "nationalNo": 975,
+    "name": "Cetitan",
+    "nameCN": "浩大鲸",
+    "type1": "Ice",
+    "type2": ""
+  },
+  {
+    "nationalNo": 976,
+    "name": "Veluza",
+    "nameCN": "轻身鳕",
+    "type1": "Water",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 977,
+    "name": "Dondozo",
+    "nameCN": "吃吼霸",
+    "type1": "Water",
+    "type2": ""
+  },
+  {
+    "nationalNo": 978,
+    "name": "Tatsugiri",
+    "nameCN": "米立龙",
+    "type1": "Dragon",
+    "type2": "Water"
+  },
+  {
+    "nationalNo": 979,
+    "name": "Annihilape",
+    "nameCN": "弃世猴",
+    "type1": "Fighting",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 980,
+    "name": "Clodsire",
+    "nameCN": "土王",
+    "type1": "Poison",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 981,
+    "name": "Farigiraf",
+    "nameCN": "奇麒麟",
+    "type1": "Normal",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 982,
+    "name": "Dudunsparce",
+    "nameCN": "土龙节节",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 983,
+    "name": "Kingambit",
+    "nameCN": "仆刀将军",
+    "type1": "Dark",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 984,
+    "name": "Great Tusk",
+    "nameCN": "雄伟牙",
+    "type1": "Ground",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 985,
+    "name": "Scream Tail",
+    "nameCN": "吼叫尾",
+    "type1": "Fairy",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 986,
+    "name": "Brute Bonnet",
+    "nameCN": "猛恶菇",
+    "type1": "Grass",
+    "type2": "Dark"
+  },
+  {
+    "nationalNo": 987,
+    "name": "Flutter Mane",
+    "nameCN": "振翼发",
+    "type1": "Ghost",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 988,
+    "name": "Slither Wing",
+    "nameCN": "爬地翅",
+    "type1": "Bug",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 989,
+    "name": "Sandy Shocks",
+    "nameCN": "沙铁皮",
+    "type1": "Electric",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 990,
+    "name": "Iron Treads",
+    "nameCN": "铁辙迹",
+    "type1": "Ground",
+    "type2": "Steel"
+  },
+  {
+    "nationalNo": 991,
+    "name": "Iron Bundle",
+    "nameCN": "铁包袱",
+    "type1": "Ice",
+    "type2": "Water"
+  },
+  {
+    "nationalNo": 992,
+    "name": "Iron Hands",
+    "nameCN": "铁臂膀",
+    "type1": "Fighting",
+    "type2": "Electric"
+  },
+  {
+    "nationalNo": 993,
+    "name": "Iron Jugulis",
+    "nameCN": "铁脖颈",
+    "type1": "Dark",
+    "type2": "Flying"
+  },
+  {
+    "nationalNo": 994,
+    "name": "Iron Moth",
+    "nameCN": "铁毒蛾",
+    "type1": "Fire",
+    "type2": "Poison"
+  },
+  {
+    "nationalNo": 995,
+    "name": "Iron Thorns",
+    "nameCN": "铁荆棘",
+    "type1": "Rock",
+    "type2": "Electric"
+  },
+  {
+    "nationalNo": 996,
+    "name": "Frigibax",
+    "nameCN": "凉脊龙",
+    "type1": "Dragon",
+    "type2": "Ice"
+  },
+  {
+    "nationalNo": 997,
+    "name": "Arctibax",
+    "nameCN": "冻脊龙",
+    "type1": "Dragon",
+    "type2": "Ice"
+  },
+  {
+    "nationalNo": 998,
+    "name": "Baxcalibur",
+    "nameCN": "戟脊龙",
+    "type1": "Dragon",
+    "type2": "Ice"
+  },
+  {
+    "nationalNo": 999,
+    "name": "Gimmighoul",
+    "nameCN": "索财灵",
+    "type1": "Ghost",
+    "type2": ""
+  },
+  {
+    "nationalNo": 1000,
+    "name": "Gholdengo",
+    "nameCN": "赛富豪",
+    "type1": "Steel",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 1001,
+    "name": "Wo-Chien",
+    "nameCN": "古简蜗",
+    "type1": "Dark",
+    "type2": "Grass"
+  },
+  {
+    "nationalNo": 1002,
+    "name": "Chien-Pao",
+    "nameCN": "古剑豹",
+    "type1": "Dark",
+    "type2": "Ice"
+  },
+  {
+    "nationalNo": 1003,
+    "name": "Ting-Lu",
+    "nameCN": "古鼎鹿",
+    "type1": "Dark",
+    "type2": "Ground"
+  },
+  {
+    "nationalNo": 1004,
+    "name": "Chi-Yu",
+    "nameCN": "古玉鱼",
+    "type1": "Dark",
+    "type2": "Fire"
+  },
+  {
+    "nationalNo": 1005,
+    "name": "Roaring Moon",
+    "nameCN": "轰鸣月",
+    "type1": "Dragon",
+    "type2": "Dark"
+  },
+  {
+    "nationalNo": 1006,
+    "name": "Iron Valiant",
+    "nameCN": "铁武者",
+    "type1": "Fairy",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 1007,
+    "name": "Koraidon",
+    "nameCN": "故勒顿",
+    "type1": "Fighting",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 1008,
+    "name": "Miraidon",
+    "nameCN": "密勒顿",
+    "type1": "Electric",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 1009,
+    "name": "Walking Wake",
+    "nameCN": "波荡水",
+    "type1": "Water",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 1010,
+    "name": "Iron Leaves",
+    "nameCN": "铁斑叶",
+    "type1": "Grass",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 1011,
+    "name": "Dipplin",
+    "nameCN": "裹蜜虫",
+    "type1": "Grass",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 1012,
+    "name": "Poltchageist",
+    "nameCN": "斯魔茶",
+    "type1": "Grass",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 1013,
+    "name": "Sinistcha",
+    "nameCN": "来悲粗茶",
+    "type1": "Grass",
+    "type2": "Ghost"
+  },
+  {
+    "nationalNo": 1014,
+    "name": "Okidogi",
+    "nameCN": "够赞狗",
+    "type1": "Poison",
+    "type2": "Fighting"
+  },
+  {
+    "nationalNo": 1015,
+    "name": "Munkidori",
+    "nameCN": "愿增猿",
+    "type1": "Poison",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 1016,
+    "name": "Fezandipiti",
+    "nameCN": "吉雉鸡",
+    "type1": "Poison",
+    "type2": "Fairy"
+  },
+  {
+    "nationalNo": 1017,
+    "name": "Ogerpon",
+    "nameCN": "厄诡椪",
+    "type1": "Grass",
+    "type2": ""
+  },
+  {
+    "nationalNo": 1018,
+    "name": "Archaludon",
+    "nameCN": "铝钢桥龙",
+    "type1": "Steel",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 1019,
+    "name": "Hydrapple",
+    "nameCN": "蜜集大蛇",
+    "type1": "Grass",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 1020,
+    "name": "Gouging Fire",
+    "nameCN": "破空火",
+    "type1": "Fire",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 1021,
+    "name": "Raging Bolt",
+    "nameCN": "猛雷鼓",
+    "type1": "Electric",
+    "type2": "Dragon"
+  },
+  {
+    "nationalNo": 1022,
+    "name": "Iron Boulder",
+    "nameCN": "铁磐岩",
+    "type1": "Rock",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 1023,
+    "name": "Iron Crown",
+    "nameCN": "铁头壳",
+    "type1": "Steel",
+    "type2": "Psychic"
+  },
+  {
+    "nationalNo": 1024,
+    "name": "Terapagos",
+    "nameCN": "太乐巴戈斯",
+    "type1": "Normal",
+    "type2": ""
+  },
+  {
+    "nationalNo": 1025,
+    "name": "Pecharunt",
+    "nameCN": "桃歹郎",
+    "type1": "Poison",
+    "type2": "Ghost"
+  }
+]
