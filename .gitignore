@@ -38,3 +38,7 @@ backend/pokemon_dump.json
 
 # Temp
 tmp/
+
+# Build artifacts
+backend/importer
+backend/-
