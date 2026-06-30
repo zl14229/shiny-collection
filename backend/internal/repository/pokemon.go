@@ -23,7 +23,7 @@ func (r *PokemonRepository) ListAll() ([]model.Pokemon, error) {
 func (r *PokemonRepository) Search(keyword string, limit int) ([]model.Pokemon, error) {
 	var pokemon []model.Pokemon
 	like := "%" + keyword + "%"
-	err := r.db.Where("name LIKE ? OR national_no LIKE ?", like, like).
+	err := r.db.Where("name LIKE ? OR name_cn LIKE ? OR national_no LIKE ?", like, like, like).
 		Order("national_no ASC").
 		Limit(limit).
 		Find(&pokemon).Error

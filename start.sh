@@ -87,6 +87,13 @@ fi
 
 # ========== 启动后端 ==========
 
+# 清理残留的后端进程
+if lsof -i :8080 &>/dev/null 2>&1; then
+    log_warn "端口 8080 被占用，正在清理..."
+    fuser -k 8080/tcp 2>/dev/null
+    sleep 1
+fi
+
 log_info "正在启动后端服务 (端口 8080)..."
 (cd "$BACKEND_DIR" && go run cmd/server/main.go) &
 BACKEND_PID=$!

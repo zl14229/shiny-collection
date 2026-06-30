@@ -25,6 +25,9 @@ func All(db *gorm.DB, logger *zap.Logger) error {
 }
 
 func seedGames(db *gorm.DB) error {
+	// 先清除旧的游戏数据，用纯 Switch 数据替换
+	db.Exec("DELETE FROM games")
+
 	// Nintendo Switch 平台可游玩的 Pokémon 主系列游戏
 	games := []model.Game{
 		// 去皮去伊 — Gen 7
@@ -84,6 +87,8 @@ func seedMethods(db *gorm.DB) error {
 }
 
 func seedPokemon(db *gorm.DB) error {
+	// 清除旧数据，重新写入完整 1025 只
+	db.Exec("DELETE FROM pokemon")
 	for _, p := range AllPokemon {
 		db.Where(model.Pokemon{NationalNo: p.NationalNo}).FirstOrCreate(&p)
 	}
