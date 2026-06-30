@@ -87,10 +87,9 @@ func seedMethods(db *gorm.DB) error {
 }
 
 func seedPokemon(db *gorm.DB) error {
-	// 清除旧数据，重新写入完整 1025 只
 	db.Exec("DELETE FROM pokemon")
 	for _, p := range AllPokemon {
-		db.Where(model.Pokemon{NationalNo: p.NationalNo}).FirstOrCreate(&p)
+		db.Where(model.Pokemon{Name: p.Name, Form: p.Form}).FirstOrCreate(&p)
 	}
 	return nil
 }

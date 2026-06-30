@@ -8,7 +8,7 @@
         <template #header>
           <div class="detail-header">
             <span class="page-title">
-              {{ record.pokemon?.nameCN || record.pokemon?.name }}
+              {{ formatPokemonName(record.pokemon) }}
               <span v-if="record.shinyAppearance" style="margin-left: 8px">✨</span>
             </span>
             <div class="header-actions">
@@ -23,7 +23,7 @@
         <div v-if="!editing" class="detail-body">
           <el-descriptions :column="2" border>
             <el-descriptions-item label="宝可梦" :span="1">
-              #{{ record.pokemon?.nationalNo }} {{ record.pokemon?.nameCN || record.pokemon?.name }}
+              #{{ record.pokemon?.nationalNo }} {{ formatPokemonName(record.pokemon) }}
             </el-descriptions-item>
             <el-descriptions-item label="属性">
               <span
@@ -110,7 +110,7 @@
                 <el-option
                   v-for="p in pokemonOptions"
                   :key="p.id"
-                  :label="`#${p.nationalNo} ${p.nameCN || p.name}`"
+                  :label="pokemonSearchLabel(p)"
                   :value="p.id"
                 />
               </el-select>
@@ -185,6 +185,7 @@ import { listMethods } from '@/api/method'
 import { listPokemon } from '@/api/pokemon'
 import { uploadVideo, deleteVideo } from '@/api/video'
 import { getTypeColor } from '@/utils/typeColors'
+import { formatPokemonName, pokemonSearchLabel } from '@/utils/pokemonFormat'
 import type { Game, Method, Pokemon, RecordStatus } from '@/types'
 import dayjs from 'dayjs'
 

@@ -53,7 +53,7 @@
             <div class="pokemon-cell">
               <span class="national-no">#{{ row.pokemon?.nationalNo }}</span>
               <span :style="{ color: getTypeColor(row.pokemon?.type1) }" class="poke-name">
-                {{ row.pokemon?.nameCN || row.pokemon?.name }}
+                {{ formatPokemonName(row.pokemon) }}
               </span>
             </div>
           </template>
@@ -142,6 +142,7 @@ import { useRecordStore } from '@/stores/record'
 import { listGames } from '@/api/game'
 import { listMethods } from '@/api/method'
 import { getTypeColor } from '@/utils/typeColors'
+import { formatPokemonName } from '@/utils/pokemonFormat'
 import type { Game, Method } from '@/types'
 import dayjs from 'dayjs'
 

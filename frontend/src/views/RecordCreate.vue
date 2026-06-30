@@ -26,7 +26,7 @@
             <el-option
               v-for="p in pokemonOptions"
               :key="p.id"
-              :label="`#${p.nationalNo} ${p.nameCN || p.name}`"
+              :label="pokemonSearchLabel(p)"
               :value="p.id"
             />
           </el-select>
@@ -178,6 +178,7 @@ import { listMethods } from '@/api/method'
 import { listPokemon } from '@/api/pokemon'
 import type { Game, Method, Pokemon, RecordStatus } from '@/types'
 import dayjs from 'dayjs'
+import { pokemonSearchLabel } from '@/utils/pokemonFormat'
 
 const router = useRouter()
 const store = useRecordStore()

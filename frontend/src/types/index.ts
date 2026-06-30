@@ -7,6 +7,7 @@ export interface Pokemon {
   nationalNo: number
   type1: string
   type2: string
+  form: string
   imageUrl: string
   createdAt: string
   updatedAt: string
