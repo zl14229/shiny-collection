@@ -88,13 +88,13 @@ fi
 # ========== 启动后端 ==========
 
 # 清理残留的后端进程
-if lsof -i :8080 &>/dev/null 2>&1; then
-    log_warn "端口 8080 被占用，正在清理..."
-    fuser -k 8080/tcp 2>/dev/null
+if lsof -i :5174 &>/dev/null 2>&1; then
+    log_warn "端口 5174 被占用，正在清理..."
+    fuser -k 5174/tcp 2>/dev/null
     sleep 1
 fi
 
-log_info "正在启动后端服务 (端口 8080)..."
+log_info "正在启动后端服务 (端口 5174)..."
 (cd "$BACKEND_DIR" && go run cmd/server/main.go) &
 BACKEND_PID=$!
 echo "  → PID: $BACKEND_PID"
@@ -102,7 +102,7 @@ echo "  → PID: $BACKEND_PID"
 # 等待后端就绪
 log_info "等待后端启动..."
 for i in $(seq 1 30); do
-    if curl -s http://localhost:8080/api/health >/dev/null 2>&1; then
+    if curl -s http://localhost:5174/api/health >/dev/null 2>&1; then
         log_info "后端服务已就绪 ✅"
         break
     fi
@@ -130,8 +130,8 @@ log_info "=================================="
 log_info "✨ 所有服务已启动！"
 log_info ""
 log_info "   🌐 前端地址: ${CYAN}http://localhost:5173${NC}"
-log_info "   🔗 后端 API: ${CYAN}http://localhost:8080/api/v1${NC}"
-log_info "   📊 健康检查: ${CYAN}http://localhost:8080/api/health${NC}"
+log_info "   🔗 后端 API: ${CYAN}http://localhost:5174/api/v1${NC}"
+log_info "   📊 健康检查: ${CYAN}http://localhost:5174/api/health${NC}"
 log_info ""
 log_info "   按 ${YELLOW}Ctrl+C${NC} 停止所有服务"
 log_info "=================================="

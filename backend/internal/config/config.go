@@ -44,7 +44,7 @@ type CORSConfig struct {
 func Load() *Config {
 	return &Config{
 		Server: ServerConfig{
-			Port:         getEnvInt("SERVER_PORT", 8080),
+			Port:         getEnvInt("SERVER_PORT", 5174),
 			ReadTimeout:  time.Second * time.Duration(getEnvInt("SERVER_READ_TIMEOUT", 30)),
 			WriteTimeout: time.Second * time.Duration(getEnvInt("SERVER_WRITE_TIMEOUT", 30)),
 		},

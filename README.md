@@ -23,7 +23,7 @@ cd backend
 go run cmd/server/main.go
 ```
 
-服务启动在 `http://localhost:8080`，自动建表并填充种子数据。
+服务启动在 `http://localhost:5174`，自动建表并填充种子数据。
 
 ### 前端
 
